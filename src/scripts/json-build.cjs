@@ -1,9 +1,11 @@
 const path = require('path');
 const fs = require('fs');
 const jsonc = require('jsonc-parser');
+const { json } = require('stream/consumers');
 
 const dirSrcAssets = path.join(__dirname, '../assets');
 const dirOutAssets = path.join(__dirname, '../../assets');
+const guids = new Set();
 
 const everything = {};
 fs.readdirSync(dirSrcAssets).forEach(folderName => {
@@ -38,7 +40,18 @@ fs.readdirSync(dirSrcAssets).forEach(folderName => {
         process.exit(1);
       }
   
-      items.push(...jsonData);
+      // Add items.
+      jsonData.forEach(item => {
+        if (item.guid) { 
+          if (guids.has(item.guid)) {
+            console.error('Duplicate GUID found:', item.guid, 'in file:', filePath);
+            process.exit(1);
+          }
+          guids.add(item.guid);
+        }
+
+        items.push(item);
+      });
     });
   };
 
