@@ -2,7 +2,7 @@
   {
     "guid": "A2--yR5CJk",
     "name": "Forest Social Space",
-    "imageUrl": "/assets/game/areas/forest/social-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/social-720.webp",
     "mapShrines": ["AKRMG2oyjD"],
     "mapData": { "position": [-373.5, 120.5] },
     "connections": [
@@ -14,7 +14,7 @@
   {
     "guid": "tU23ZgPP_g",
     "name": "Forest Clearing",
-    "imageUrl": "/assets/game/areas/forest/clearing-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/clearing-720.webp",
     "wingedLights": ["0o9-mt5q1s"],
     "mapShrines": ["QgjhOZjQ-n"],
     "mapData": { "position": [-366.19, 117.44] },
@@ -27,7 +27,7 @@
   {
     "guid": "ZlV4HpsDGF",
     "name": "Rainy Forest",
-    "imageUrl": "/assets/game/areas/forest/rainy-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/rainy-720.webp",
     "spirits": ["LwcCtbnGuF", "94UEgV7ic1", "RG-Z1xwway"],
     "wingedLights": ["zJCYOFxRNR"],
     "mapData": { "position": [-347.69, 103.75] },
@@ -40,7 +40,7 @@
   {
     "guid": "qVu1RHulPp",
     "name": "Forest Brook",
-    "imageUrl": "/assets/game/areas/forest/brook-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/brook-720.webp",
     "spirits": [
       "xbGBFC0rnu",
       "p-WdkJpGB5",
@@ -63,7 +63,7 @@
   {
     "guid": "L3F8Z9vbYs",
     "name": "Elevated Clearing",
-    "imageUrl": "/assets/game/areas/forest/elevated-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/elevated-720.webp",
     "wingedLights": ["MpcHkLWwol", "DIK2gBZ_FA"],
     "mapShrines": ["NMH_NIElGP"],
     "mapData": { "position": [-328.63, 132.38] },
@@ -77,7 +77,7 @@
   {
     "guid": "FlcxMwdsU7",
     "name": "Underground Cavern",
-    "imageUrl": "/assets/game/areas/forest/cavern-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/cavern-720.webp",
     "spirits": ["gcEV41jg3U"],
     "wingedLights": ["iaLuQ06e4T", "pBAU_FHObL", "3NFT1aCRpY", "xF6rfLZpef"],
     "mapShrines": ["ZzKKzgMfUM"],
@@ -87,7 +87,7 @@
   {
     "guid": "y5ebkdgzZv",
     "name": "Blue Bird theater",
-    "imageUrl": "/assets/game/areas/forest/blue-bird-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/blue-bird-720.webp",
     "spirits": [
       "hbXkkZbBsk",
       "2iDZqeJXTf",
@@ -104,7 +104,7 @@
   {
     "guid": "iYC53UMrvL",
     "name": "Broken Bridge",
-    "imageUrl": "/assets/game/areas/forest/bridge-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/bridge-720.webp",
     "spirits": [
       "L_0YoE4O8Z",
       "puj9z07ew0",
@@ -127,7 +127,7 @@
   {
     "guid": "-y0hYE5huj",
     "name": "Forest Temple",
-    "imageUrl": "/assets/game/areas/forest/temple-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/temple-720.webp",
     "mapShrines": ["doMFpBkpt9"],
     "mapData": { "position": [-284, 134.25] },
     "connections": [{ "area": "iYC53UMrvL" }, { "area": "jY6mM3Io4T" }]
@@ -135,7 +135,7 @@
   {
     "guid": "jY6mM3Io4T",
     "name": "Forest End",
-    "imageUrl": "/assets/game/areas/forest/end-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/end-720.webp",
     "wingedLights": ["s_UlGNscIQ"],
     "mapShrines": ["nlqV1yGTCM"],
     "mapData": { "position": [-275.13, 166.25] },
@@ -144,7 +144,7 @@
   {
     "guid": "Ay0oFK8FSv",
     "name": "Assembly Treehouse",
-    "imageUrl": "/assets/game/areas/forest/treehouse-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/treehouse-720.webp",
     "spirits": ["cpwvdVEzKN"],
     "wingedLights": ["H7uvC7nb8U", "7_WXb7Uu8Z"],
     "mapShrines": ["8IFQ0Mi8Hk"],
@@ -159,7 +159,7 @@
   {
     "guid": "_dSyX-Uwrh",
     "name": "Wind Paths",
-    "imageUrl": "/assets/game/areas/forest/wind-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/forest/wind-720.webp",
     "spirits": [
       "FF8u1g9XI_",
       "9Wl9kwxoFk",

@@ -7,7 +7,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5a/Icon_cape_bat-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ab/Bat_cape_back_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Mischief_BatCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Mischief_BatCape.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -47,7 +47,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/73/Icon_cape_spider-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Spider_cape_back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Mischief_SpiderCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Mischief_SpiderCape.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -144,7 +144,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/78/Icon_2021_mischief_jumper.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a1/Leggings_2021_mischief_jumper_iap.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/outfit/Mischief_Witch.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Mischief_Witch.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -196,8 +196,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Days-of-Mischief-Cat-Mask-Icon-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/12/Days-of-Mischief-Cat-Mask.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Mischief_cat.jpg",
-      "infoUrl": "/assets/game/dyes/mask/2slots_Mischief_cat.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Mischief_cat.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/mask/2slots_Mischief_cat.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -214,7 +214,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Days-of-Mischief-Cat-Cape-Icon-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9d/Days-of-Mischief-2022-Cat-Cape-back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Mischief_cat.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Mischief_cat.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -256,7 +256,7 @@
     "order": 971,
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/cape/Mischef_crabulacape.webp"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Mischef_crabulacape.webp"
     },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief#Mischief_Crabula_Cloak"
@@ -283,7 +283,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/44/Mischief-Goth-Garment.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Mischief_Goth.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Mischief_Goth.jpg"
     },
     "order": 90,
     "_wiki": {
@@ -379,7 +379,7 @@
     "order": 119,
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/Mischief_sticker.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/Mischief_sticker.jpg"
     },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief#Mischief_Star_Sticker"
@@ -401,7 +401,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dd/Days-of-Mischief-Puzzlewright-Brimmed-Hat-front.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/hair/Mischief_crowhat.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Mischief_crowhat.jpg"
     },
     "order": 305
   },
@@ -414,7 +414,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b4/Days-of-Mischief-Feline-Accessory-Tail-back.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/Mischief_cattail.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/Mischief_cattail.jpg"
     },
     "order": 559
   },
@@ -427,7 +427,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ad/Days-of-Mischief-Feline-Accessory-Ear-front.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/hair-accessory/Mischief_catears.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Mischief_catears.jpg"
     },
     "order": 367
   },
@@ -441,8 +441,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/mask/Mischief_crowmask.jpg",
-      "infoUrl": "/assets/game/dyes/mask/2slots_Mischief_crowmask.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Mischief_crowmask.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/mask/2slots_Mischief_crowmask.jpg"
     },
     "order": 501
   },
@@ -455,7 +455,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a9/Days-of-Mischief-Goth-Cape-back.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/cape/Mischief_curtaincape.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Mischief_curtaincape.jpg"
     },
     "order": 969
   },
@@ -536,7 +536,7 @@
     "guid": "4wA4nwGZUM",
     "type": "Prop",
     "name": "Red Dye Sticker",
-    "icon": "/assets/game/items/2845.png",
+    "icon": "https://sky-planner.com/assets/game/items/2845.png",
     "order": 625
   },
   {
@@ -544,7 +544,7 @@
     "guid": "HUjA3utlNd",
     "type": "Prop",
     "name": "Purple Dye Sticker",
-    "icon": "/assets/game/items/2846.png",
+    "icon": "https://sky-planner.com/assets/game/items/2846.png",
     "order": 626
   },
   {
@@ -552,7 +552,7 @@
     "guid": "G9RHsCv5AB",
     "type": "Prop",
     "name": "Black Dye Sticker",
-    "icon": "/assets/game/items/2847.png",
+    "icon": "https://sky-planner.com/assets/game/items/2847.png",
     "order": 627
   },
   {
@@ -560,7 +560,7 @@
     "guid": "hrH037AVN5",
     "type": "Prop",
     "name": "White Dye Sticker",
-    "icon": "/assets/game/items/2848.png",
+    "icon": "https://sky-planner.com/assets/game/items/2848.png",
     "order": 628
   },
   {
@@ -568,7 +568,7 @@
     "guid": "jP6vp1JxGK",
     "type": "Special",
     "name": "Cutscene",
-    "icon": "/assets/icons/question.webp"
+    "icon": "https://sky-planner.com/assets/icons/question.webp"
   },
   {
     "id": 2850,

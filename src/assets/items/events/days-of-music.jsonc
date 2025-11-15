@@ -86,7 +86,7 @@
     },
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/hair/Music_bandhat.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Music_bandhat.jpg"
     },
     "order": 296
   },
@@ -135,7 +135,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cb/Music-marching-band-Cape-back.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/cape/Music_cape.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Music_cape.jpg"
     },
     "order": 980,
     "_wiki": {
@@ -152,8 +152,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Music_pants.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slots_Music_pants.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Music_pants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Music_pants.jpg"
     },
     "order": 92,
     "_wiki": {

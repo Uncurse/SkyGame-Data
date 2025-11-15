@@ -450,8 +450,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Anniversary_waistcoatpants.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slot_Anniversary_waistcoatpants.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Anniversary_waistcoatpants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slot_Anniversary_waistcoatpants.jpg"
     },
     "order": 94,
     "_wiki": {
@@ -503,7 +503,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Anniversary-Gown-Dress.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Anniversary_jellydress.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Anniversary_jellydress.jpg"
     },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary#Anniversary_Gown_Ensemble"
@@ -520,8 +520,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/cape/Anniversary_tuxedocape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slot_Anniversary_tuxedocape.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Anniversary_tuxedocape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slot_Anniversary_tuxedocape.jpg"
     },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary#Anniversary_Tuxedo_Cape"

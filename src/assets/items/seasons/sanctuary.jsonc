@@ -214,7 +214,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Mimi-4117_07_jelly_whisperer_pants.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b2/Season_of_sanctuary_pants_jelly_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/outfit/Sanctuary_jelly.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Sanctuary_jelly.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -323,7 +323,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/96/Icon_cape_sanctuary_butterfly-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Season_of_sanctuary_cape_timid_back_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Sanctuary_TimidCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Sanctuary_TimidCape.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -667,8 +667,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6e/Icon_cape_sanctuary_shell-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/86/Season_of_sanctuary_cape_grateful_back_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Sanctuary_shell.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Sanctuary_shell.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Sanctuary_shell.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Sanctuary_shell.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -798,7 +798,7 @@
     },
     "order": 318,
     "dye": {
-      "previewUrl": "/assets/game/dyes/hair-accessory/Sanctuary_chillhat.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Sanctuary_chillhat.jpg",
       "primary": {}
     }
   },
@@ -818,7 +818,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ed/Icon_cape_sanctuary_flower-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3a/Season_of_sanctuary_cape_chill_back_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Sanctuary_chill.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Sanctuary_chill.jpg",
       "primary": {}
     },
     "_wiki": {

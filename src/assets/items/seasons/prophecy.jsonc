@@ -35,7 +35,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/83/Icon_mask_prophecy_ult.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Prophecy-Guide_Mask.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Prophecy_ultmask.webp",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Prophecy_ultmask.webp",
       "primary": {}
     },
     "_wiki": {
@@ -200,7 +200,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Icon_cape_prophecy_blue-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b5/Prophecy_cape_water_back_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Prophecy_TurtleCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Prophecy_TurtleCape.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -217,7 +217,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6e/Mimi-4117_08_prophet_of_water_mask.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ea/Prophecy-Prophet_of_Water_Mask.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Prophecy_turtle.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Prophecy_turtle.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -362,8 +362,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/71/Icon_cape_prophecy_maroon-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/80/Prophecy_cape_earth_back_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Prophecy_SpiderCape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Prophecy_SpiderCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Prophecy_SpiderCape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Prophecy_SpiderCape.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -380,7 +380,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/50/Mimi-4117_08_prophet_of_earth_mask.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b3/Prophecy-Prophet_of_Earth_Mask.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Prophecy_spider.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Prophecy_spider.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -512,7 +512,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Mimi-4117_08_prophet_of_air_mask.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4a/Prophecy-Prophet_of_Air_Mask.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Prophecy_bat.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Prophecy_bat.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -529,8 +529,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/76/Icon_cape_prophecy_purple-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Prophecy_cape_air_back_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Prophecy_BatCape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Prophecy_BatCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Prophecy_BatCape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Prophecy_BatCape.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -676,7 +676,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Mimi-4117_08_prophet_of_fire_mask.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6e/Prophecy-Prophet_of_Fire_Mask.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Prophecy_lion.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Prophecy_lion.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -692,8 +692,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/01/Mimi-4117_08_prophet_of_fire_pants.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/de/Prophecy-Prophet_of_Fire_Leggings.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/outfit/Prophecy_fire.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slots_Prophecy_fire.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Prophecy_fire.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Prophecy_fire.jpg",
       "primary": {},
       "secondary": {}
     },

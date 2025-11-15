@@ -95,8 +95,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b2/Icon_cape_belonging_red-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/78/Belonging_cape_red_back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Belonging_CousinCape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Belonging_CousinCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Belonging_CousinCape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Belonging_CousinCape.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -117,7 +117,7 @@
     },
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/hair/Belonging_confetti.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Belonging_confetti.jpg"
     },
     "order": 193,
     "group": "SeasonPass"
@@ -233,8 +233,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/76/Mimi-4117_04_boogie_kid_pants.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a6/Belonging_Legs_Isle.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/outfit/Belonging_kid.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slots_Belonging_kid.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Belonging_kid.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Belonging_kid.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -352,7 +352,7 @@
     },
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/hair/Belonging_sparkler.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Belonging_sparkler.jpg"
     },
     "order": 194
   },
@@ -486,8 +486,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9e/Icon_cape_belonging_white-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/df/Belonging_cape_white_back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Belonging_GrandpaCape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Belonging_GrandpaCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Belonging_GrandpaCape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Belonging_GrandpaCape.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -619,8 +619,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Icon_cape_belonging_blue-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/44/Belonging_cape_dark_blue_back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Belonging_PleafulCape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Belonging_PleafulCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Belonging_PleafulCape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Belonging_PleafulCape.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -731,7 +731,7 @@
     "order": 383,
     "group": "SeasonPass",
     "dye": {
-      "previewUrl": "/assets/game/dyes/hair-accessory/Belonging_earmuffs.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Belonging_earmuffs.jpg",
       "primary": {}
     }
   },

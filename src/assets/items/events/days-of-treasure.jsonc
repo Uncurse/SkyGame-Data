@@ -9,7 +9,7 @@
     "order": 82,
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Treasure_pants.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Treasure_pants.jpg"
     },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure#Treasure_Seeker's_Bounty"
@@ -25,7 +25,7 @@
     "order": 145,
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/shoes/Treasure_boots.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/shoes/Treasure_boots.jpg"
     },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure#Treasure_Cavalier_Boots"
@@ -54,8 +54,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/mask/Treasure_mask.jpg",
-      "infoUrl": "/assets/game/dyes/mask/2slots_Treasure_mask.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Treasure_mask.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/mask/2slots_Treasure_mask.jpg"
     },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Treasure#Treasure_Seeker's_Bounty"
@@ -73,7 +73,7 @@
     "guid": "2TW_W4bbLe",
     "type": "Special",
     "name": "Cutscene",
-    "icon": "/assets/icons/question.webp"
+    "icon": "https://sky-planner.com/assets/icons/question.webp"
   },
   {
     "id": 2533,

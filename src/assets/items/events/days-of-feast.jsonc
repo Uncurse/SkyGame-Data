@@ -11,7 +11,7 @@
     },
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/hair/Feast_santa.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Feast_santa.jpg"
     },
     "order": 306
   },
@@ -27,7 +27,7 @@
     },
     "order": 403,
     "dye": {
-      "previewUrl": "/assets/game/dyes/head-accessory/Feast_antlers.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/head-accessory/Feast_antlers.jpg",
       "primary": {}
     }
   },
@@ -39,7 +39,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/80/Icon_cape_snowflake-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/29/Snowflake_cape.back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Feast_SnowflakeCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Feast_SnowflakeCape.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -55,7 +55,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/04/Icon_cape_santa-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4d/Santa_cape_back_2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Feast_santa.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Feast_santa.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -146,7 +146,7 @@
     },
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/hair/Feast_pombeanie.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Feast_pombeanie.jpg"
     },
     "order": 307
   },
@@ -162,7 +162,7 @@
     },
     "order": 554,
     "dye": {
-      "previewUrl": "/assets/game/dyes/Feast_scarf.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/Feast_scarf.jpg",
       "primary": {}
     }
   },
@@ -224,8 +224,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/36/Days_of_Feast_Elder_Cape_icon-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e3/Feast_Elder_Cape_back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Feast_WinterAncestorCape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Feast_WinterAncestorCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Feast_WinterAncestorCape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Feast_WinterAncestorCape.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -253,8 +253,8 @@
     },
     "order": 120,
     "dye": {
-      "previewUrl": "/assets/game/dyes/Feast_yetigoggles.jpg",
-      "infoUrl": "/assets/game/dyes/2slots_Feast_yetigoggles.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/Feast_yetigoggles.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/2slots_Feast_yetigoggles.jpg",
       "primary": {},
       "secondary": {}
     }
@@ -291,8 +291,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/Days-of-Feast-Yeti-Fur-Cape-icon-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5b/Days-of-Feast-Yeti-Fur-Cape-back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Feast_YetiCape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Feast_YetiCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Feast_YetiCape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Feast_YetiCape.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -379,7 +379,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4d/Winter-Quilted-Cape-back.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/cape/Feast_peek.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Feast_peek.jpg"
     },
     "order": 977,
     "_wiki": {
@@ -488,7 +488,7 @@
     "guid": "PSsXG7edcE",
     "type": "Special",
     "name": "Cutscene",
-    "icon": "/assets/icons/question.webp"
+    "icon": "https://sky-planner.com/assets/icons/question.webp"
   },
   {
     "id": 2424,

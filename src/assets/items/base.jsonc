@@ -4,7 +4,7 @@
     "guid": "iqCCaRTjDu",
     "type": "Special",
     "name": "Placeholder",
-    "icon": "/assets/icons/question.webp"
+    "icon": "https://sky-planner.com/assets/icons/question.webp"
   },
   {
     "id": 1,
@@ -27,7 +27,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cf/Icon_mask_default.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b7/Mask01-no_mask.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Base_default.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Base_default.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -48,7 +48,7 @@
     },
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/hair/Base_moth.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Base_moth.jpg"
     },
     "autoUnlocked": true,
     "order": 148
@@ -87,7 +87,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Icon_cape_brown-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/80/Cape_brown_2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Base_moth.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Base_moth.jpg",
       "primary": {}
     },
     "_wiki": {

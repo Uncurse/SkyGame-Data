@@ -2,7 +2,7 @@
   {
     "guid": "oEnKoTrbCt",
     "name": "Sand Dunes",
-    "imageUrl": "/assets/game/areas/isle/dunes-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/isle/dunes-720.webp",
     "spirits": [
       "qSs575DZ6P",
       "Tw-J4oXgie",
@@ -28,7 +28,7 @@
   {
     "guid": "LanOVr1JCo",
     "name": "Isle Temple Entrance",
-    "imageUrl": "/assets/game/areas/isle/temple-entrance-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/isle/temple-entrance-720.webp",
     "spirits": ["bmYjIuJ6Qf", "Q5pn7wxwUD"],
     "mapData": { "position": [-416.13, 299.25] },
     "connections": [
@@ -40,7 +40,7 @@
   {
     "guid": "6MuptjUV8B",
     "name": "Isle Temple",
-    "imageUrl": "/assets/game/areas/isle/temple-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/isle/temple-720.webp",
     "mapShrines": ["gZHTmFJ0_S"],
     "mapData": { "position": [-398.13, 305.5] },
     "connections": [{ "area": "LanOVr1JCo" }, { "area": "Cmo9TPPpyH" }]
@@ -48,7 +48,7 @@
   {
     "guid": "hDN-ciwGc-",
     "name": "Floating Island",
-    "imageUrl": "/assets/game/areas/isle/island-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/isle/island-720.webp",
     "spirits": ["f3AD39Q2Il"],
     "mapShrines": ["s-TcDLSu2E"],
     "mapData": { "position": [-408.75, 322.5] },
@@ -61,7 +61,7 @@
   {
     "guid": "ht8PxRB-MY",
     "name": "Butterfly Cave",
-    "imageUrl": "/assets/game/areas/isle/butterfly-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/isle/butterfly-720.webp",
     "wingedLights": ["vGCXUjMLfB"],
     "mapData": { "position": [-405.13, 321.5] },
     "connections": [{ "area": "hDN-ciwGc-" }]
@@ -69,7 +69,7 @@
   {
     "guid": "Xr2ZiVSV7p",
     "name": "Cave of Prophecies",
-    "imageUrl": "/assets/game/areas/isle/prophecies-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/isle/prophecies-720.webp",
     "spirits": [
       "DKFofCESGJ",
       "9Rgsos9xqE",
@@ -91,7 +91,7 @@
   {
     "guid": "4fDcMVcdYD",
     "name": "Trial of Water",
-    "imageUrl": "/assets/game/areas/isle/water-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/isle/water-720.webp",
     "wingedLights": ["LOr9OqWHQv"],
     "mapShrines": ["aGV5eAoQGR"],
     "mapData": { "position": [-396.63, 336.25] },
@@ -100,7 +100,7 @@
   {
     "guid": "AC2AuDyHbM",
     "name": "Trial of Earth",
-    "imageUrl": "/assets/game/areas/isle/earth-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/isle/earth-720.webp",
     "wingedLights": ["BPnMAjL286"],
     "mapShrines": ["elvKIlUjPQ"],
     "mapData": { "position": [-388, 345.63] },
@@ -109,7 +109,7 @@
   {
     "guid": "nvd-hpUD1f",
     "name": "Trial of Air",
-    "imageUrl": "/assets/game/areas/isle/air-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/isle/air-720.webp",
     "wingedLights": ["7IpuFMAIXe"],
     "mapShrines": ["xPzPNehmaS"],
     "mapData": { "position": [-387.88, 358.75] },
@@ -118,7 +118,7 @@
   {
     "guid": "lZkMYxUB8A",
     "name": "Trial of Fire",
-    "imageUrl": "/assets/game/areas/isle/fire-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/isle/fire-720.webp",
     "wingedLights": ["89a0rCfJL-"],
     "mapShrines": ["5Xrgsi0oOP"],
     "mapData": { "position": [-398.5, 364.63] },

@@ -2,7 +2,7 @@
   {
     "guid": "n7kcD7FZYB",
     "name": "Aviary Village",
-    "imageUrl": "/assets/external/solsuga/aviary.webp",
+    "imageUrl": "https://sky-planner.com/assets/external/solsuga/aviary.webp",
     "imageSize": [3508, 2480],
     "imageAttribution": "Map by @sky_solsuga",
     "groups": [
@@ -49,7 +49,7 @@
   {
     "guid": "ydGNM778OK",
     "name": "Isle of Dawn",
-    "imageUrl": "/assets/external/solsuga/dawn.webp",
+    "imageUrl": "https://sky-planner.com/assets/external/solsuga/dawn.webp",
     "imageSize": [3508, 2480],
     "imageAttribution": "Map by @sky_solsuga",
     "groups": [
@@ -183,7 +183,7 @@
   {
     "guid": "cp1rXLb4XE",
     "name": "Daylight Prairie",
-    "imageUrl": "/assets/external/solsuga/prairie.webp",
+    "imageUrl": "https://sky-planner.com/assets/external/solsuga/prairie.webp",
     "imageSize": [3508, 2480],
     "imageAttribution": "Map by @sky_solsuga",
     "groups": [
@@ -374,7 +374,7 @@
   {
     "guid": "7ToiXTillD",
     "name": "Hidden Forest",
-    "imageUrl": "/assets/external/solsuga/forest.webp",
+    "imageUrl": "https://sky-planner.com/assets/external/solsuga/forest.webp",
     "imageSize": [3508, 2480],
     "imageAttribution": "Map by @sky_solsuga",
     "groups": [
@@ -595,7 +595,7 @@
   {
     "guid": "RaXkXjq7NM",
     "name": "Valley of Triumph",
-    "imageUrl": "/assets/external/solsuga/valley.webp",
+    "imageUrl": "https://sky-planner.com/assets/external/solsuga/valley.webp",
     "imageSize": [3508, 2480],
     "imageAttribution": "Map by @sky_solsuga",
     "groups": [

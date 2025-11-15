@@ -127,8 +127,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/cape/2E-P1_ultcape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slot_2E-P1_ultcape.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/2E-P1_ultcape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slot_2E-P1_ultcape.jpg"
     },
     "group": "Ultimate",
     "order": 935,
@@ -193,8 +193,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/outfit/2E-P1_Toymakerpants.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slot_2E-P1_Toymakerpants.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/2E-P1_Toymakerpants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slot_2E-P1_Toymakerpants.jpg"
     },
     "group": "SeasonPass",
     "order": 68,
@@ -212,8 +212,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/hair/2E-P1_Toymakerhijab.jpg",
-      "infoUrl": "/assets/game/dyes/hair/2slot_2E-P1_Toymakerhijab.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/2E-P1_Toymakerhijab.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slot_2E-P1_Toymakerhijab.jpg"
     },
     "order": 279,
     "_wiki": {
@@ -271,8 +271,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/outfit/2E-P1_Shepherdpants.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slot_2E-P1_Shepherdpants.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/2E-P1_Shepherdpants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slot_2E-P1_Shepherdpants.jpg"
     },
     "order": 59,
     "_wiki": {
@@ -372,8 +372,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/outfit/2E-P1_Reclusepants.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slot_2E-P1_Reclusepants.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/2E-P1_Reclusepants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slot_2E-P1_Reclusepants.jpg"
     },
     "group": "SeasonPass",
     "order": 66,
@@ -470,7 +470,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/30/Scarred-Sentry-Cape-back.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/cape/2E-P1_Sentrycape.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/2E-P1_Sentrycape.jpg"
     },
     "group": "SeasonPass",
     "order": 933,
@@ -488,8 +488,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/outfit/2E-P1_Sentrypants.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slot_2E-P1_Sentrypants.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/2E-P1_Sentrypants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slot_2E-P1_Sentrypants.jpg"
     },
     "order": 67,
     "_wiki": {

@@ -126,8 +126,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/cape/Sunlight_manta.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Sunlight_manta.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Sunlight_manta.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Sunlight_manta.jpg"
     },
     "order": 963,
     "_wiki": {
@@ -168,8 +168,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Sunlight_dadpants.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slots_Sunlight_dadpants.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Sunlight_dadpants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Sunlight_dadpants.jpg"
     },
     "order": 83,
     "_wiki": {
@@ -204,7 +204,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ac/Sunlight-Sun-Dress-front.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Sunlight_toga.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Sunlight_toga.jpg"
     },
     "order": 84,
     "_wiki": {
@@ -232,7 +232,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/56/Sunlight-Shawl-Cape-back.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/cape/Sunlight_teenycape.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Sunlight_teenycape.jpg"
     },
     "order": 962,
     "_wiki": {
@@ -328,6 +328,6 @@
     "guid": "jEpC3PXdht",
     "type": "Special",
     "name": "Cutscene",
-    "icon": "/assets/icons/question.webp"
+    "icon": "https://sky-planner.com/assets/icons/question.webp"
   }
 ]

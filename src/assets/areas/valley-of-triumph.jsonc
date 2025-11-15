@@ -2,7 +2,7 @@
   {
     "guid": "LUkrOYNjEy",
     "name": "Valley Social Space",
-    "imageUrl": "/assets/game/areas/valley/social-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/social-720.webp",
     "mapShrines": ["-R9H4i_Jz3"],
     "mapData": { "position": [-257.13, 189.63] },
     "connections": [{ "area": "u3rc8C3sMb" }, { "area": "WZFTGjgurD" }]
@@ -10,7 +10,7 @@
   {
     "guid": "u3rc8C3sMb",
     "name": "Ice Rink",
-    "imageUrl": "/assets/game/areas/valley/rink-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/rink-720.webp",
     "spirits": ["4KCKJxR56G", "JROKFatVLC", "bHCSyFQ4u-", "9y_5scrYa9"],
     "wingedLights": ["5BM1uqQvM4", "vKEMuduC0F", "_rmaySa6NL"],
     "mapShrines": ["GKHfiJzwUw"],
@@ -24,7 +24,7 @@
   {
     "guid": "iRWfJCMxFB",
     "name": "Citadel",
-    "imageUrl": "/assets/game/areas/valley/citadel-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/citadel-720.webp",
     "spirits": ["yUp189PWVS", "CfXORyMFx4", "H5iKZChQIK"],
     "wingedLights": ["DjuNbgmKq5", "D9Z9c3mRDf"],
     "mapShrines": ["fog6ZHU6Mx"],
@@ -34,7 +34,7 @@
   {
     "guid": "8Zn5GPbx1U",
     "name": "Sliding Race",
-    "imageUrl": "/assets/game/areas/valley/slide-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/slide-720.webp",
     "wingedLights": ["Tmg19lVERk"],
     "mapShrines": ["r2NNvf4jdl"],
     "mapData": { "position": [-257.56, 248.88] },
@@ -43,7 +43,7 @@
   {
     "guid": "uMoS_cHn0R",
     "name": "Flying Race",
-    "imageUrl": "/assets/game/areas/valley/fly-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/fly-720.webp",
     "wingedLights": ["sfDl46vj4O", "N6KMjaxez6"],
     "mapShrines": ["Aq4k2P-fVB"],
     "mapData": { "position": [-238.5, 254.19] },
@@ -52,7 +52,7 @@
   {
     "guid": "YoYzKZ6GY3",
     "name": "Race End",
-    "imageUrl": "/assets/game/areas/valley/end.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/end.webp",
     "wingedLights": ["HqV6qmTkzQ"],
     "mapData": { "position": [-261.5, 291.88] },
     "connections": [{ "area": "GC4SmA2CUz" }]
@@ -60,7 +60,7 @@
   {
     "guid": "GC4SmA2CUz",
     "name": "Coliseum",
-    "imageUrl": "/assets/game/areas/valley/coliseum-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/coliseum-720.webp",
     "spirits": [
       "OaAUJHNIjE",
       "IIt-zYJC2N",
@@ -79,7 +79,7 @@
   {
     "guid": "L1O2yEHfvX",
     "name": "Valley Temple",
-    "imageUrl": "/assets/game/areas/valley/temple-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/temple-720.webp",
     "spirits": ["CcOE42N9Mc"],
     "wingedLights": ["E-f38yRTaj"],
     "mapData": { "position": [-240.38, 291.88] },
@@ -88,7 +88,7 @@
   {
     "guid": "WZFTGjgurD",
     "name": "Village of Dreams",
-    "imageUrl": "/assets/game/areas/valley/village-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/village-720.webp",
     "spirits": [
       "sj6YhQZQvM",
       "KhFZE8z0-I",
@@ -110,7 +110,7 @@
   {
     "guid": "7z8NtDXKrS",
     "name": "Hermit Valley",
-    "imageUrl": "/assets/game/areas/valley/hermit-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/hermit-720.webp",
     "wingedLights": ["KFqwmitUni", "8_EY7L74TI"],
     "mapShrines": ["Nqlcq4Eqj5"],
     "mapData": { "position": [-281.5, 239.13] },
@@ -119,7 +119,7 @@
   {
     "guid": "M8mzMntElQ",
     "name": "Village Theatre",
-    "imageUrl": "/assets/game/areas/valley/theatre-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/theatre-720.webp",
     "spirits": [
       "qSggZYj_x3",
       "4iotcmsn0K",
@@ -135,7 +135,7 @@
   {
     "guid": "3YSSmw01DR",
     "name": "Harmony Hall",
-    "imageUrl": "/assets/game/areas/valley/harmony-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/harmony-720.webp",
     "mapData": { "position": [-285.13, 291.75] },
     "connections": [
       { "area": "M8mzMntElQ" },
@@ -146,6 +146,6 @@
   {
     "guid": "C4ndigYE4Q",
     "name": "AURORA Concert Coliseum",
-    "imageUrl": "/assets/game/areas/valley/aurora-720.webp"
+    "imageUrl": "https://sky-planner.com/assets/game/areas/valley/aurora-720.webp"
   }
 ]

@@ -19,7 +19,7 @@
     "group": "Ultimate",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/shoes/Migration_ultboots.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/shoes/Migration_ultboots.jpg"
     },
     "order": 136
   },
@@ -34,8 +34,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Migration_ultpants.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slots_Migration_ultpants.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Migration_ultpants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Migration_ultpants.jpg"
     },
     "order": 71
   },
@@ -50,8 +50,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/Migration_ulthorns.jpg",
-      "infoUrl": "/assets/game/dyes/2slots_Migration_ulthorns.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/Migration_ulthorns.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/2slots_Migration_ulthorns.jpg"
     },
     "order": 113
   },
@@ -147,8 +147,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Migration_jellypants.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slots_Migration_jellypants.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Migration_jellypants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Migration_jellypants.jpg"
     },
     "order": 72
   },
@@ -162,8 +162,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/head-accessory/Migration_jellytassels.jpg",
-      "infoUrl": "/assets/game/dyes/head-accessory/2slots_Migration_jellytassels.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/head-accessory/Migration_jellytassels.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/head-accessory/2slots_Migration_jellytassels.jpg"
     },
     "order": 345
   },
@@ -249,8 +249,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/cape/Migration_butterfly.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Migration_butterfly.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Migration_butterfly.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Migration_butterfly.jpg"
     },
     "order": 936
   },
@@ -329,8 +329,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/hair/Migration_mantahawk.jpg",
-      "infoUrl": "/assets/game/dyes/hair/2slots_Migration_mantahawk.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Migration_mantahawk.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Migration_mantahawk.jpg"
     },
     "order": 281
   },
@@ -375,7 +375,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ca/Migrating-Manta-Whisperer-Cape-back.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/cape/Migration_manta.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Migration_manta.jpg"
     },
     "order": 939
   },
@@ -406,8 +406,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Migration_mantapants.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slots_Migration_mantapants.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Migration_mantapants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Migration_mantapants.jpg"
     },
     "order": 69
   },
@@ -475,7 +475,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Migrating-Bird-Whisperer-Outfit-front.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Migration_bird.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Migration_bird.jpg"
     },
     "order": 70
   },
@@ -514,8 +514,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/cape/Migration_wingcape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Migration_wingcape.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Migration_wingcape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Migration_wingcape.jpg"
     },
     "order": 937
   },
@@ -559,7 +559,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/19/Migrating-Bellmaker-Hair-front.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/hair/Migration_lighthornhair.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Migration_lighthornhair.jpg"
     },
     "order": 282
   },
@@ -602,7 +602,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/af/Migrating-Bellmaker-Face-Accessory.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/Migration_lighthornglasses.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/Migration_lighthornglasses.jpg"
     },
     "order": 122
   },
@@ -615,7 +615,7 @@
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Migrating-Bellmaker-Cape-back.png",
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/cape/Migration_lighthorncape.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Migration_lighthorncape.jpg"
     },
     "order": 938
   },

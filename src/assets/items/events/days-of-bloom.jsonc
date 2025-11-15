@@ -126,8 +126,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/ba/Days-of-Bloom-Gardener-outfit-icon-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1a/Days-of-Bloom-Gardener-outfit-front.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/outfit/Bloom_gardener.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slots_Bloom_gardener.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Bloom_gardener.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Bloom_gardener.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -208,7 +208,7 @@
     "guid": "Gs8SlhZwyP",
     "type": "Special",
     "name": "Cutscene",
-    "icon": "/assets/icons/question.webp"
+    "icon": "https://sky-planner.com/assets/icons/question.webp"
   },
   {
     "id": 2537,
@@ -234,8 +234,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/cape/Bloom_rosecape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Bloom_rosecape.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Bloom_rosecape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Bloom_rosecape.jpg"
     },
     "order": 947,
     "_wiki": {
@@ -252,8 +252,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/mask/Bloom_rosemask.jpg",
-      "infoUrl": "/assets/game/dyes/mask/2slots_Bloom_rosemask.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Bloom_rosemask.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/mask/2slots_Bloom_rosemask.jpg"
     },
     "order": 502,
     "_wiki": {
@@ -282,8 +282,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/hair/Bloom_rosebraid.jpg",
-      "infoUrl": "/assets/game/dyes/hair/2slots_Bloom_rosebraid.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Bloom_rosebraid.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Bloom_rosebraid.jpg"
     },
     "order": 290,
     "_wiki": {

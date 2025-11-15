@@ -37,7 +37,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a7/ButterflyCharmer-2-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8d/Cape_yellow_2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Base_yellow.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Base_yellow.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -115,7 +115,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/59/ButterflyCharmer-3.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5e/Cape_yellow_tier_2_back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Base_yellow2.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Base_yellow2.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -301,8 +301,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/78/WavingBellmaker-3.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/27/Mask03.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Base_mask.jpg",
-      "infoUrl": "/assets/game/dyes/mask/2slots_Base_mask.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Base_mask.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/mask/2slots_Base_mask.jpg",
       "primary": {},
       "secondary": {}
     },

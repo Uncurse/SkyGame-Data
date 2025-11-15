@@ -9,8 +9,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/outfit/Moonlight_robe.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slots_Moonlight_robe.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Moonlight_robe.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Moonlight_robe.jpg"
     },
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Moonlight#Moonlight_Frock_and_Updo"
@@ -77,7 +77,7 @@
     "guid": "xObCoMqwCd",
     "type": "Special",
     "name": "Cutscene",
-    "icon": "/assets/icons/question.webp"
+    "icon": "https://sky-planner.com/assets/icons/question.webp"
   },
   {
     "id": 2758,

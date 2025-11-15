@@ -2,7 +2,7 @@
   {
     "guid": "QM7Kuv1Ekg",
     "name": "Vault Social Space",
-    "imageUrl": "/assets/game/areas/vault/social-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/social-720.webp",
     "wingedLights": ["r9CmlnAmRm"],
     "mapData": { "position": [-236.13, 367] },
     "connections": [
@@ -16,7 +16,7 @@
   {
     "guid": "wKZdWMMIWa",
     "name": "Vault Elevator",
-    "imageUrl": "/assets/game/areas/vault/elevator-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/elevator-720.webp",
     "spirits": ["_8CvQjUnQg", "CH6e-TQz6n"],
     "mapShrines": ["Mt6uDBigUP"],
     "mapData": { "position": [-227.38, 366.88] },
@@ -25,7 +25,7 @@
   {
     "guid": "KLweYQTEIp",
     "name": "Vault Second Floor",
-    "imageUrl": "/assets/game/areas/vault/second-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/second-720.webp",
     "spirits": ["Im7m8syitV"],
     "mapData": { "position": [-221, 366.88] },
     "connections": [{ "area": "-xkmkbpRyN" }]
@@ -33,7 +33,7 @@
   {
     "guid": "-xkmkbpRyN",
     "name": "Vault Third Floor",
-    "imageUrl": "/assets/game/areas/vault/third-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/third-720.webp",
     "spirits": ["1OGD_H3a7X"],
     "wingedLights": ["Hn7mU7ktxt"],
     "mapShrines": ["9TfCpBgmXW"],
@@ -43,7 +43,7 @@
   {
     "guid": "BxTngnB1PV",
     "name": "Vault Fourth Floor",
-    "imageUrl": "/assets/game/areas/vault/fourth-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/fourth-720.webp",
     "spirits": ["HeJISF946a", "Gi75RcvXd0", "KZaVtTUdlR", "mZZ-MkZJ1x"],
     "wingedLights": ["Zzvpdwh0wl", "I-vGwH81iB"],
     "mapShrines": ["oxZXdByjCg"],
@@ -53,7 +53,7 @@
   {
     "guid": "Zx40zFvrqG",
     "name": "Vault Fifth Floor",
-    "imageUrl": "/assets/game/areas/vault/fifth-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/fifth-720.webp",
     "wingedLights": ["vP7uVXrDUu"],
     "mapData": { "position": [-185.5, 346.88] },
     "connections": [{ "area": "ZiqYHd176H" }]
@@ -61,7 +61,7 @@
   {
     "guid": "ZiqYHd176H",
     "name": "Vault Summit",
-    "imageUrl": "/assets/game/areas/vault/summit-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/summit-720.webp",
     "wingedLights": ["uiNKKn25L-"],
     "mapShrines": ["4jtpTFZ39o"],
     "mapData": { "position": [-179.25, 327.88] },
@@ -70,7 +70,7 @@
   {
     "guid": "HbKvg_BOyc",
     "name": "Vault Archives",
-    "imageUrl": "/assets/game/areas/vault/archive-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/archive-720.webp",
     "spirits": ["7EzWoLR1w4"],
     "wingedLights": ["W9fiK8mWQK", "4uUGCJEgq3"],
     "mapShrines": ["ioChKfj63j"],
@@ -80,7 +80,7 @@
   {
     "guid": "wrHKGEg2Kc",
     "name": "Vault Collab Room",
-    "imageUrl": "/assets/game/areas/vault/new-collab-temp.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/new-collab-temp.webp",
     "mapShrines": ["eroCc1CGcC"],
     "mapData": { "position": [-214, 395.5] },
     "connections": [
@@ -96,7 +96,7 @@
   {
     "guid": "IrChmrOevd",
     "name": "Starlight Desert",
-    "imageUrl": "/assets/game/areas/vault/starlight-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/starlight-720.webp",
     "spirits": [
       "HfafU7Pfui",
       "JOCCkr0TlW",
@@ -117,7 +117,7 @@
   {
     "guid": "TenYOMK1pK",
     "name": "Starlight Desert Jar",
-    "imageUrl": "/assets/game/areas/vault/jar-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/jar-720.webp",
     "spirits": ["iweb5Sk2Xk"],
     "mapData": { "position": [-196.75, 448.5] },
     "connections": [{ "area": "IrChmrOevd" }]
@@ -125,7 +125,7 @@
   {
     "guid": "S3Zd-sgxHw",
     "name": "Jellyfish Beach",
-    "imageUrl": "/assets/game/areas/vault/jellyfish-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/jellyfish-720.webp",
     "spirits": ["dEQ1GVQOx7"],
     "mapData": { "position": [-193.25, 428.75] },
     "connections": [{ "area": "IrChmrOevd" }]
@@ -133,19 +133,19 @@
   {
     "guid": "p3vJrJBcfy",
     "name": "Starlight Dunes",
-    "imageUrl": "/assets/game/areas/vault/dunes-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/dunes-720.webp",
     "mapData": { "position": [-191, 455.5] },
     "connections": [{ "area": "IrChmrOevd" }]
   },
   {
     "guid": "4FfXQeSNni",
     "name": "Dreams of a Little Friend",
-    "imageUrl": "/assets/game/areas/vault/dreams-720.webp"
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/dreams-720.webp"
   },
   {
     "guid": "schNrmq0ID",
     "name": "Office",
-    "imageUrl": "/assets/game/areas/vault/secret-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/secret-720.webp",
     "spirits": [
       "ExkE9a7QJ0",
       "Ayoc2XvMTy",
@@ -167,12 +167,12 @@
   {
     "guid": "DERcWzmOL7",
     "name": "The Cackling Crab",
-    "imageUrl": "/assets/game/areas/vault/cackling-720.webp"
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/cackling-720.webp"
   },
   {
     "guid": "XG3_0khlw9",
     "name": "Repository of Refuge",
-    "imageUrl": "/assets/game/areas/vault/refuge-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/refuge-720.webp",
     "spirits": [
       "ZGSnOxK9gb",
       "O1olUBrkJ5",
@@ -188,7 +188,7 @@
   {
     "guid": "aBL5eqTv4R",
     "name": "Crescent Oasis",
-    "imageUrl": "/assets/game/areas/vault/crescent-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/crescent-720.webp",
     "spirits": [
       "v-bxcGqGaa",
       "gyEBXKOIwY",
@@ -203,12 +203,12 @@
   {
     "guid": "QnPzVZ6PyJ",
     "name": "Hidden Glade (Memory)",
-    "imageUrl": "/assets/game/areas/vault/glade-720.webp"
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/glade-720.webp"
   },
   {
     "guid": "wOM-k6pjot",
     "name": "Moominvalley Glade",
-    "imageUrl": "/assets/game/areas/vault/moomin-glade-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/moomin-glade-720.webp",
     "spirits": [
       "vW9xp55w6t",
       "9RTxyGCw9v",
@@ -224,12 +224,12 @@
   {
     "guid": "2YCd4ckP6e",
     "name": "Moominvalley",
-    "imageUrl": "/assets/game/areas/vault/moomin-720.webp"
+    "imageUrl": "https://sky-planner.com/assets/game/areas/vault/moomin-720.webp"
   },
   {
     "guid": "mT6bVNovBW",
     "name": "Sky Cinema",
-    "imageUrl": "/assets/game/areas/aviary/cinema-temp.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/cinema-temp.webp",
     "spirits": ["gy_EzmMKxF"],
     "connections": [{ "area": "wrHKGEg2Kc" }, { "area": "pZbxK8tM_J" }]
   }

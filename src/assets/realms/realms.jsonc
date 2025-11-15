@@ -3,7 +3,7 @@
     "guid": "wk596SmtyB",
     "name": "Aviary Village",
     "shortName": "Aviary",
-    "imageUrl": "/assets/game/realms/Aviary.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/realms/Aviary.webp",
     "areas": [
       "Mhbh0g9OdG",
       "5kw7myrDPU",
@@ -35,7 +35,7 @@
     "guid": "8E6CJZxsxj",
     "name": "Home",
     "shortName": "Home",
-    "imageUrl": "/assets/game/realms/Home.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/realms/Home.webp",
     "areas": ["zewkN917oz"],
     "mapData": {
       "position": [-478.5, 416.25],
@@ -56,7 +56,7 @@
     "guid": "E1RwpAdA8l",
     "name": "Isle of Dawn",
     "shortName": "Dawn",
-    "imageUrl": "/assets/game/realms/Isle.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/realms/Isle.webp",
     "elder": "l8tl0mHCWH",
     "areas": [
       "oEnKoTrbCt",
@@ -92,7 +92,7 @@
     "guid": "tuaosLljJS",
     "name": "Daylight Prairie",
     "shortName": "Prairie",
-    "imageUrl": "/assets/game/realms/Prairie.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/realms/Prairie.webp",
     "elder": "iu6tmCPpex",
     "areas": [
       "Cmo9TPPpyH",
@@ -128,7 +128,7 @@
     "guid": "mz64Wq0_df",
     "name": "Hidden Forest",
     "shortName": "Forest",
-    "imageUrl": "/assets/game/realms/Forest.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/realms/Forest.webp",
     "imagePosition": "bottom",
     "elder": "aj2x9H8ECy",
     "areas": [
@@ -170,7 +170,7 @@
     "guid": "VtkTo1WWuD",
     "name": "Valley of Triumph",
     "shortName": "Valley",
-    "imageUrl": "/assets/game/realms/Valley.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/realms/Valley.webp",
     "elder": "NgLbFXaB4z",
     "areas": [
       "LUkrOYNjEy",
@@ -207,7 +207,7 @@
     "guid": "rAjzHXfPpb",
     "name": "Golden Wasteland",
     "shortName": "Wasteland",
-    "imageUrl": "/assets/game/realms/Wasteland.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/realms/Wasteland.webp",
     "elder": "JQR4EGE6io",
     "areas": [
       "R4I-lYbUUO",
@@ -245,7 +245,7 @@
     "guid": "y-6n1F5E77",
     "name": "Vault of Knowledge",
     "shortName": "Vault",
-    "imageUrl": "/assets/game/realms/Vault.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/realms/Vault.webp",
     "elder": "NLbS2a-y2u",
     "areas": [
       "QM7Kuv1Ekg",
@@ -295,7 +295,7 @@
     "guid": "GKnbJhLIRi",
     "name": "Eye of Eden",
     "shortName": "Eden",
-    "imageUrl": "/assets/game/realms/Eden.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/realms/Eden.webp",
     "areas": [
       "vWlW190-P1",
       "aXSrTx3fzL",

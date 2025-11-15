@@ -21,7 +21,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bd/Icon_mask_dreams_ult.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/09/Dreams_mask_ultimate_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Dreams_ult2.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Dreams_ult2.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -38,7 +38,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d0/Icon_cape_dreams_ultimate-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e1/Dreams_cape_ultimate_back_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Dreams_ult.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Dreams_ult.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -177,7 +177,7 @@
     "order": 385,
     "group": "SeasonPass",
     "dye": {
-      "previewUrl": "/assets/game/dyes/head-accessory/Dreams_yetihorns.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/head-accessory/Dreams_yetihorns.jpg",
       "primary": {}
     }
   },
@@ -234,8 +234,8 @@
     "dye": {
       "primary": {},
       "secondary": {},
-      "previewUrl": "/assets/game/dyes/hair/Dreams_yeti.jpg",
-      "infoUrl": "/assets/game/dyes/hair/2slots_Dreams_yeti.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Dreams_yeti.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Dreams_yeti.jpg"
     },
     "order": 215
   },
@@ -247,8 +247,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/08/Icon_pants_dreams_bearhug.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0f/Dreams_pants_bearhug_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/outfit/Dreams_Yeti.jpg",
-      "infoUrl": "/assets/game/dyes/outfit/2slots_Dreams_Yeti.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Dreams_Yeti.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Dreams_Yeti.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -323,7 +323,7 @@
     },
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/hair/Dreams_DP.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Dreams_DP.jpg"
     },
     "order": 216,
     "group": "SeasonPass"
@@ -366,7 +366,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4e/Icon_mask_dreams_dancing.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/Dreams_mask_dancing_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Dreams_DP.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Dreams_DP.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -383,7 +383,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6b/Icon_cape_dreams_dancing-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2b/Dreams_cape_dancing_back_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Dreams_DP.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Dreams_DP.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -509,7 +509,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1a/Icon_pants_dreams_peeking.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5e/Dreams_pants_peeking_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/outfit/Dreams_peek.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Dreams_peek.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -545,7 +545,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c1/Icon_cape_dreams_peeking-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Dreams_cape_peeking_back_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Dreams_peek.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Dreams_peek.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -561,7 +561,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Icon_mask_dreams_peeking.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7e/Dreams_mask_peeking_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Dreams_peek.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Dreams_peek.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -628,7 +628,7 @@
     },
     "dye": {
       "primary": {},
-      "previewUrl": "/assets/game/dyes/hair/Dreams_mentor.jpg"
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Dreams_mentor.jpg"
     },
     "order": 217
   },
@@ -671,7 +671,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/69/Icon_mask_dreams_spinning.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ed/Dreams_mask_spinning_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/mask/Dreams_quail.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Dreams_quail.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -702,7 +702,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c3/Icon_cape_dreams_spinning-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4f/Dreams_cape_spinning_back_v2.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Dreams_spin.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Dreams_spin.jpg",
       "primary": {}
     },
     "_wiki": {

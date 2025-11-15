@@ -2,7 +2,7 @@
   {
     "guid": "zewkN917oz",
     "name": "Home Space",
-    "imageUrl": "/assets/game/areas/aviary/home-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/home-720.webp",
     "mapData": { "position": [-478, 415.75] },
     "mapShrines": ["NKLJ5lCZiL"],
     "connections": [
@@ -19,7 +19,7 @@
   {
     "guid": "Mhbh0g9OdG",
     "name": "Aviary Village",
-    "imageUrl": "/assets/game/areas/aviary/village-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/village-720.webp",
     "spirits": [
       "0Ab0zVwBa0",
       "53sRWu-bTI",
@@ -48,7 +48,7 @@
   {
     "guid": "5kw7myrDPU",
     "name": "Aviary Portals",
-    "imageUrl": "/assets/game/areas/aviary/portals-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/portals-720.webp",
     "mapData": { "position": [-449.56, 366] },
     "connections": [
       { "area": "Mhbh0g9OdG" },
@@ -71,28 +71,28 @@
   {
     "guid": "JdoOxvcKlP",
     "name": "Aviary Event Store",
-    "imageUrl": "/assets/game/areas/aviary/event-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/event-720.webp",
     "mapData": { "position": [-457.25, 361.13] },
     "connections": [{ "area": "Mhbh0g9OdG" }, { "area": "rTIqNgvA4N" }]
   },
   {
     "guid": "TUyoacebPE",
     "name": "Aviary Spell Shop",
-    "imageUrl": "/assets/game/areas/aviary/spell-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/spell-720.webp",
     "mapData": { "position": [-458.38, 374] },
     "connections": [{ "area": "Mhbh0g9OdG" }]
   },
   {
     "guid": "rTIqNgvA4N",
     "name": "Aviary Shopping Area",
-    "imageUrl": "/assets/game/areas/aviary/shops-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/shops-720.webp",
     "mapData": { "position": [-453.38, 362.13] },
     "connections": [{ "area": "Mhbh0g9OdG" }, { "area": "JdoOxvcKlP" }]
   },
   {
     "guid": "tP8ZaD5Qwf",
     "name": "Nesting Workshop",
-    "imageUrl": "/assets/game/areas/aviary/workshop-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/workshop-720.webp",
     "spirits": [
       "ksZ0eZfHEZ",
       "L6Rqyh4Xi9",
@@ -106,21 +106,21 @@
   {
     "guid": "pNNbszCpyA",
     "name": "Nests",
-    "imageUrl": "/assets/game/areas/aviary/nest-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/nest-720.webp",
     "mapData": { "position": [-460.44, 353.25] },
     "connections": [{ "area": "Mhbh0g9OdG" }]
   },
   {
     "guid": "ftFow3ue0Z",
     "name": "Village Cafe",
-    "imageUrl": "/assets/game/areas/aviary/cafe-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/cafe-720.webp",
     "mapData": { "position": [-453.38, 367.31] },
     "connections": [{ "area": "Mhbh0g9OdG" }]
   },
   {
     "guid": "quSVk1cT4l",
     "name": "Concert Hall",
-    "imageUrl": "/assets/game/areas/aviary/concert-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/aviary/concert-720.webp",
     "spirits": [
       "iCVOo-FNbd",
       "o4ZuAa_Q8u",

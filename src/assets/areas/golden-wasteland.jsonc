@@ -2,7 +2,7 @@
   {
     "guid": "R4I-lYbUUO",
     "name": "Wasteland Social Space",
-    "imageUrl": "/assets/game/areas/wasteland/social-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/social-720.webp",
     "mapShrines": ["EaNImb7KpI"],
     "mapData": { "position": [-283, 339.25] },
     "connections": [
@@ -15,7 +15,7 @@
   {
     "guid": "LNcVZMfuWm",
     "name": "Switch Secret Area",
-    "imageUrl": "/assets/game/areas/wasteland/switch-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/switch-720.webp",
     "mapData": { "position": [-279.63, 339.06] },
     "connections": [
       { "area": "oEnKoTrbCt" },
@@ -30,7 +30,7 @@
   {
     "guid": "4Vw0MHl11q",
     "name": "Broken Temple",
-    "imageUrl": "/assets/game/areas/wasteland/broken-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/broken-720.webp",
     "spirits": ["TqswdiTmEC", "k8nqBtLJ0R"],
     "wingedLights": ["M_ouc0fx7z", "-jaWbsOO-B"],
     "mapShrines": ["M8hQkhleyp"],
@@ -40,7 +40,7 @@
   {
     "guid": "CCmW2Ad_v_",
     "name": "Graveyard",
-    "imageUrl": "/assets/game/areas/wasteland/graveyard-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/graveyard-720.webp",
     "spirits": [
       "_4VyRWxD3V",
       "trJkBr3myf",
@@ -67,7 +67,7 @@
   {
     "guid": "jjiMqCABVw",
     "name": "Crab Fields",
-    "imageUrl": "/assets/game/areas/wasteland/crabs-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/crabs-720.webp",
     "spirits": ["6GO0ISasq7", "tZG5hNcINX"],
     "wingedLights": ["pZ5N0156oQ", "U8Bo3YBBh2", "rSQzx1yNcr"],
     "mapShrines": ["y5INBIKCXK"],
@@ -77,7 +77,7 @@
   {
     "guid": "jP2N7n1mcw",
     "name": "Battlefield",
-    "imageUrl": "/assets/game/areas/wasteland/battlefield-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/battlefield-720.webp",
     "spirits": ["nwpDbbbWcw"],
     "wingedLights": ["3rn0JHgV53", "MVmgO5kOUE"],
     "mapShrines": ["XCCgbwMp3Y"],
@@ -91,7 +91,7 @@
   {
     "guid": "9kF2UIDK2N",
     "name": "Wasteland Temple",
-    "imageUrl": "/assets/game/areas/wasteland/temple-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/temple-720.webp",
     "wingedLights": ["NtcClN4SsY"],
     "mapShrines": ["78BXBDmd2d"],
     "mapData": { "position": [-269, 392.75] },
@@ -100,7 +100,7 @@
   {
     "guid": "xr7mTSgK1O",
     "name": "Forgotten Ark",
-    "imageUrl": "/assets/game/areas/wasteland/ark-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/ark-720.webp",
     "spirits": [
       "ZomY9nil8V",
       "HphxLKhDBZ",
@@ -118,7 +118,7 @@
   {
     "guid": "fng8QLVMr1",
     "name": "Treasure Reef",
-    "imageUrl": "/assets/game/areas/wasteland/reef-720.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/reef-720.webp",
     "spirits": [
       "WFqMqmjVv9",
       "4gwH1Tn9he",
@@ -134,7 +134,7 @@
   {
     "guid": "QroH22BPGJ",
     "name": "Abyss Depths",
-    "imageUrl": "/assets/game/areas/wasteland/depths.webp",
+    "imageUrl": "https://sky-planner.com/assets/game/areas/wasteland/depths.webp",
     "mapData": { "position": [-373.25, 419] },
     "connections": [{ "area": "fng8QLVMr1" }]
   },

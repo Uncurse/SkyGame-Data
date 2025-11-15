@@ -238,8 +238,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4d/Vestige-of-a-Deserted-Oasis-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/de/Vestige-of-a-Deserted-Oasis-Cape-back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Revival_RhythmCape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Revival_RhythmCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Revival_RhythmCape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Revival_RhythmCape.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -292,7 +292,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/51/Memory-of-a-Lost-Village-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4b/Memory-of-a-Lost-Village-Cape-back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Revival_AbyssCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Revival_AbyssCape.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -404,8 +404,8 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6f/Echo-of-an-Abandoned-Refuge-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/48/Echo-of-an-Abandoned-Refuge-Cape-back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Revival_GratCape.jpg",
-      "infoUrl": "/assets/game/dyes/cape/2slots_Revival_GratCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Revival_GratCape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Revival_GratCape.jpg",
       "primary": {},
       "secondary": {}
     },
@@ -471,7 +471,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c4/Remnant-of-a-Forgotten-Haven-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/25/Remnant-of-a-Forgotten-Haven-Cape-back.png",
     "dye": {
-      "previewUrl": "/assets/game/dyes/cape/Revival_EnchantCape.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Revival_EnchantCape.jpg",
       "primary": {}
     },
     "_wiki": {
@@ -507,7 +507,7 @@
     "order": 330,
     "group": "SeasonPass",
     "dye": {
-      "previewUrl": "/assets/game/dyes/hair-accessory/Revival_bow.jpg",
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Revival_bow.jpg",
       "primary": {}
     }
   },
