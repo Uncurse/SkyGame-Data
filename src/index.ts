@@ -5,6 +5,7 @@ export * from './helpers/node-helper.js';
 export * from './helpers/spirit-tree-helper.js';
 
 // Export all interface types
+export type * from './interfaces/sky-data.interface.js';
 export type * from './interfaces/area.interface.js';
 export type * from './interfaces/base.interface.js';
 export type * from './interfaces/calculator-data.interface.js';
