@@ -60,6 +60,17 @@
   { "guid": "t8drYXJoZy", "item": "YzY-N81J1l", "h": 8 },
   { "guid": "vdX49Oa9XI", "item": "C1z7gdAqFH", "c": 50 },
   { "guid": "tWKDjY83ng", "item": "n4sSWlUIbO", "c": 70 },
+  // SV 11
+  { "guid": "MYGxrRz1dX", "item": "sw2YxczeGz", "nw": "pwOQisOIDM", "n": "YcnP_W3Y-8" },
+  { "guid": "pwOQisOIDM", "item": "s_79maNypQ", "c": 15 },
+  { "guid": "YcnP_W3Y-8", "item": "GiLR6EGa0G", "c": 5, "nw": "HXOqjx-eAI", "n": "MpZ-cDufXE", "ne": "2W5vFqZh_-" },
+  { "guid": "HXOqjx-eAI", "item": "xI0_ep59HH", "c": 42 },
+  { "guid": "2W5vFqZh_-", "item": "exzDzoamyL", "c": 3 },
+  { "guid": "MpZ-cDufXE", "item": "knUa1Ri-X1", "ac": 2, "n": "KFMz9HPM7O" },
+  { "guid": "KFMz9HPM7O", "item": "Ml3Snz_cos", "c": 5, "nw": "HquaKixBk7", "n": "z_vOcKI327", "ne": "U7rVlTLgzT" },
+  { "guid": "HquaKixBk7", "item": "YzY-N81J1l", "h": 8 },
+  { "guid": "U7rVlTLgzT", "item": "C1z7gdAqFH", "c": 50 },
+  { "guid": "z_vOcKI327", "item": "n4sSWlUIbO", "c": 70 },
   // #endregion
   // #region Dancing Performer
   { "guid": "6i1ljkdw6g", "item": "mK02s3A4Sy", "nw": "RtqFpi_hFX", "n": "4jPhG-WDu-" },
@@ -111,6 +122,20 @@
   { "guid": "y9krI0CQBZ", "item": "hPlYrRFFLa", "c": 65 },
   { "guid": "2pH2ViUmsr", "item": "t-tF3kbiyu", "c": 5, "n": "BmvolBJz_w" },
   { "guid": "BmvolBJz_w", "item": "xFj09irsLt", "hiddenItems": ["3CcVwVPJm-"], "c": 70 },
+  // SV 11
+  { "guid": "rfwstakJR_", "item": "hV3bFwgh_u", "nw": "ihSF0FVHCr", "ne": "YwRt2zAKCs", "n": "Gf22A_pZB9" },
+  { "guid": "ihSF0FVHCr", "item": "iNGMlJTDL0", "h": 4 },
+  { "guid": "YwRt2zAKCs", "item": "P0s-2sxeCo", "c": 15 },
+  { "guid": "Gf22A_pZB9", "item": "TApO1CbBoB", "c": 5, "nw": "CEDxQDFuH4", "ne": "Wd8K6up0IY", "n": "UzN0AQng7w" },
+  { "guid": "CEDxQDFuH4", "item": "Htee_duioI", "c": 54 },
+  { "guid": "Wd8K6up0IY", "item": "FDooabvqY9", "c": 3 },
+  { "guid": "UzN0AQng7w", "item": "yDYmiGTiTN", "ac": 2, "n": "HMr0akz1K5" },
+  { "guid": "HMr0akz1K5", "item": "ehhr3uxVaH", "h": 3, "nw": "ezf5fSB927", "ne": "R5Oken06JZ", "n": "TXUHpVg352" },
+  { "guid": "ezf5fSB927", "item": "0S9JrVZK6v", "h": 6 },
+  { "guid": "R5Oken06JZ", "item": "hPlYrRFFLa", "c": 65 },
+  { "guid": "TXUHpVg352", "item": "t-tF3kbiyu", "c": 5, "nw": "nNwdOB_phS", "n":"O6-JWDv9cJ" },
+  { "guid": "nNwdOB_phS", "item": "xFj09irsLt", "c": 48 },
+  { "guid": "O6-JWDv9cJ", "item": "3CcVwVPJm-", "c": 36 },
   // #region Spinning Mentor
   { "guid": "3OmVOrRC43", "item": "NOJ5yfbV_j", "nw": "UBfuaB2HAh", "n": "oRsSn4tuWY" },
   { "guid": "UBfuaB2HAh", "item": "tp172HbBKC" },

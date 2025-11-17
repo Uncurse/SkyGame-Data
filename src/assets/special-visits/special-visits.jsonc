@@ -138,9 +138,13 @@
   {
     "guid": "o9yc20B9B_",
     "name": "Special Visit #9",
+    "area": "GC4SmA2CUz",
     "date": "2025-06-09",
     "endDate": "2025-06-22",
     "spirits": ["LLth9nq2nP", "olbY9U0lxM", "nwWdDhdluk", "iEt-8V2HNj"],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Returning_Spirits#June_9,_2025"
+    },
     "_calendar": {
       "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=2028261c87dd80dc8bb3d76e177e1b4f&pm=c"
     }
@@ -148,11 +152,26 @@
   {
     "guid": "TSbUGdWmTY",
     "name": "Special Visit #10",
+    "area": "wKZdWMMIWa",
     "date": "2025-08-18",
     "endDate": "2025-08-31",
     "spirits": ["J8STDoY-Ow", "wDVJveAXOq", "3xOSFSwG7h", "hIZaGZRtuI"],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Returning_Spirits#August_18,_2025"
+    },
     "_calendar": {
       "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=2348261c87dd80fe8c1bd8183898d1b2&pm=c"
+    }
+  },
+  {
+    "guid": "LAOJ50QR7P",
+    "name": "Special Visit #11",
+    "area": "7z8NtDXKrS",
+    "date": "2025-11-17",
+    "endDate": "2025-11-30",
+    "spirits": [ "r4UQqanXXe", "yFy97eBh0E", "Cfm2LGHWwS", "NFp-TXTUKD" ],
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=2a18261c87dd80a3bf2bf0fe2f4e1b56&pm=c"
     }
   }
 ]
