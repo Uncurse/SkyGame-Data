@@ -13,9 +13,9 @@ export interface ISpiritTree extends IGuid {
   permanent?: boolean | string;
   node?: INode;
   tier?: ISpiritTreeTier;
-  ts?: ITravelingSpirit;
-  visit?: ISpecialVisitSpirit;
   spirit?: ISpirit;
+  travelingSpirit?: ITravelingSpirit;
+  specialVisitSpirit?: ISpecialVisitSpirit;
   eventInstanceSpirit?: IEventInstanceSpirit;
 }
 

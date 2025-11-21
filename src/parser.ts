@@ -197,8 +197,8 @@ export class SkyDataResolver {
       // Map TS to Spirit.
       const spirit = this.guids.get(ts.spirit as any) as ISpirit;
       ts.spirit = spirit;
-      spirit.ts ??= [];
-      spirit.ts.push(ts);
+      spirit.travelingSpirits ??= [];
+      spirit.travelingSpirits.push(ts);
 
       tsCounts[spirit.name] ??= 0;
       tsCounts[spirit.name]!++;
@@ -208,7 +208,7 @@ export class SkyDataResolver {
       // Map TS to Spirit Tree.
       const tree = this.guids.get(ts.tree as any) as ISpiritTree;
       ts.tree = tree;
-      tree.ts = ts;
+      tree.travelingSpirit = ts;
     })
   }
 
@@ -239,13 +239,13 @@ export class SkyDataResolver {
         // Map Visit to Spirit.
         const spirit = this.guids.get(visit.spirit as any) as ISpirit;
         sv.spirits![si]!.spirit = spirit;
-        spirit.visits ??= [];
-        spirit.visits.push(visit);
+        spirit.specialVisitSpirits ??= [];
+        spirit.specialVisitSpirits.push(visit);
 
         // Map Visit to Spirit Tree.
         const tree = this.guids.get(visit.tree as any) as ISpiritTree;
         sv.spirits![si]!.tree = tree;
-        tree.visit = visit;
+        tree.specialVisitSpirit = visit;
       });
     });    
   }
@@ -333,8 +333,8 @@ export class SkyDataResolver {
           const spirit = this.guids.get(eventSpirit.spirit as any) as ISpirit;
           if (!spirit) { console.error( 'Spirit not found', eventSpirit.spirit); }
           eventSpirit.spirit = spirit;
-          eventSpirit.spirit.events = [];
-          eventSpirit.spirit.events.push(eventSpirit);
+          eventSpirit.spirit.eventInstanceSpirits = [];
+          eventSpirit.spirit.eventInstanceSpirits.push(eventSpirit);
 
           const tree = this.guids.get(eventSpirit.tree as any) as ISpiritTree;
           if (!tree) { console.error( 'Tree not found', eventSpirit.tree); }

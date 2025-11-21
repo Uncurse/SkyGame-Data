@@ -36,11 +36,11 @@ export interface ISpirit extends IGuid {
   /** Season this spirit is part of. */
   season?: ISeason;
   /** All Traveling Spirit visits of this spirit. */
-  ts?: Array<ITravelingSpirit>;
+  travelingSpirits?: Array<ITravelingSpirit>;
   /** All visits as returning spirits.  */
-  visits?: Array<ISpecialVisitSpirit>;
+  specialVisitSpirits?: Array<ISpecialVisitSpirit>;
   /** All visits during events. */
-  events?: Array<IEventInstanceSpirit>;
+  eventInstanceSpirits?: Array<IEventInstanceSpirit>;
   /** All shop instances. */
   shops?: Array<IShop>;
 
