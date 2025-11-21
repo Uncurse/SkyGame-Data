@@ -1,5 +1,5 @@
 // Export parser functionality
-export * from './parser.js';
+export * from './resolver.js';
 export * from './helpers/date-helper.js';
 export * from './helpers/node-helper.js';
 export * from './helpers/spirit-tree-helper.js';

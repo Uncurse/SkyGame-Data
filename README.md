@@ -123,7 +123,63 @@ Circular references are marked in *italic* and are created automatically when pa
 
 The project includes some utilities to parse the data into a Javascript object with resolved GUID references. Do note that this data can not be serialized normally due to the circular references in the data, as per the diagram.
 
-TODO
+**SkyDataResolver**
+
+Helper class that can parse and resolve references using the `everything.json` file.
+
+Example:
+```ts
+import { SkyDataResolver } from 'skygame-data';
+
+(async () => {
+  const response = await fetch('https://unpkg.com/skygame-data@0.2.0/assets/everything.json');
+  const data = await response.json();
+  const resolved = await SkyDataResolver.resolve(data);
+  console.log(resolved.seasons.items.length);
+})();
+```
+
+
+**SkyDateHelper**
+
+Helper class that can parse date strings to Luxon DateTime objects based on the `America/Los_Angeles` timezone.
+
+Example:
+```ts
+import { SkyDateHelper } from 'skygame-data';
+
+const date = SkyDateHelper.fromStringSky('2026-01-01');
+console.log(date.toISO()); // 2026-01-01T08:00:00.000Z
+```
+
+**SpiritTreeHelper**
+
+Helper class that has some utilities for working with spirit trees.
+
+Example:
+```ts
+import { SpiritTreeHelper } from 'skygame-data';
+
+const resolved; // See SkyDataResolver example.
+const spirit = resolved.spirits.items.find(s => s.name === 'Migrating Bellmaker')!;
+const nodes = SpiritTreeHelper.getNodes(spirit.tree!);
+console.log(nodes.length);
+```
+
+**NodeHelper**
+
+Helper class that has some utilities for working with nodes.
+
+Example:
+```ts
+import { NodeHelper } from 'skygame-data';
+
+const resolved; // See SkyDataResolver example.
+const item = resolved.items.items.find(i => i.name === 'Admiring Actor Outfit')!;
+const node = item.nodes!.at(0);
+const nodes = NodeHelper.trace(node);
+console.log(nodes.length);
+```
 
 # Discord
 
