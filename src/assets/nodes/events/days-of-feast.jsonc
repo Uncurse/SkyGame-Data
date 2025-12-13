@@ -388,6 +388,22 @@
   { "guid": "LGxFpHfOoz", "item": "RFMVpbZOil", "h": 15 },
   { "guid": "Y_aY6jR2rn", "item": "7lrenJRCtn", "c": 2, "nw": "gEpJ3mBr0k", "n": "VeAXoj8YYp" },
   { "guid": "gEpJ3mBr0k", "item": "GoESQXsRjl", "c": 65 },
-  { "guid": "VeAXoj8YYp", "item": "oHChsGl8AZ", "c": 150 }
+  { "guid": "VeAXoj8YYp", "item": "oHChsGl8AZ", "c": 150 },
+  // #endregion
+  // #region Days of Feast (2025)
+  { "guid": "gszI-cAWaq", "item": "NLHC0F_Oc3", "nw": "FeXcBgfvQJ", "n": "FNTynM5qCX", "ne": "d6yTiw76xx", "c": 5 },
+  { "guid": "FeXcBgfvQJ", "item": "hkbIvMBqyD", "ec": 45 },
+  { "guid": "d6yTiw76xx", "item": "Ll_Y3fvyyd", "ec": 39 },
+  { "guid": "FNTynM5qCX", "item": "IyKQz1CMsf", "nw": "_wovth8zG5", "n": "GkjQgBvpMi", "ne": "Txji0PNLu8", "c": 5 },
+  { "guid": "_wovth8zG5", "item": "oelvOczEPw", "c": 42 },
+  { "guid": "Txji0PNLu8", "item": "1KuqlnQtX3", "c": 75 },
+  { "guid": "GkjQgBvpMi", "item": "1UilFmOfGk", "c": 36 },
+  // Office
+{ "guid": "t0ssDtYtLs", "item": "FG23AJzDOD", "c": 2, "nw": "UivKtVnP5i", "n": "uX7h_g8Tyo", "ne": "MtdiYzIaTN" },
+{ "guid": "UivKtVnP5i", "item": "jbcKW_vibd", "c": 3 },
+{ "guid": "MtdiYzIaTN", "item": "RFMVpbZOil", "h": 15 },
+{ "guid": "uX7h_g8Tyo", "item": "7lrenJRCtn", "c": 2, "nw": "AIyDZ4aAzI", "n": "Ve15OB_XIi" },
+{ "guid": "AIyDZ4aAzI", "item": "GoESQXsRjl", "c": 65 },
+{ "guid": "Ve15OB_XIi", "item": "oHChsGl8AZ", "c": 150 }
   // #endregion
 ]

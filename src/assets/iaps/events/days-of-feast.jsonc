@@ -366,4 +366,139 @@
     ]
   },
   // #endregion
+  // #region Days of Feast (2024)
+  {
+    "guid": "WXr9EhQ7Wk",
+    "name": "Winter Scarf Cape",
+    "price": 14.99,
+    "items": [
+      "kKDtHO9xi6"
+    ]
+  },
+  {
+    "guid": "3PMpLqW_rH",
+    "name": "Fluffy Winter Wear",
+    "price": 6.99,
+    "items": [
+      "8aWnwc3_C6","aoUa2jtXfL"
+    ]
+  },
+  {
+    "guid": "S4K4JiRvmZ",
+    "name": "Snowkid Accessory",
+    "price": 1.99,
+    "items": [
+      "6T4gsS3ZUX"
+    ]
+  },
+  {
+    "guid": "_Nj12DJmj_",
+    "name": "Wonderland Primose Pinafore Set",
+    "price": 11.99,
+    "returning": true,
+    "items": [
+      "tSAl1nV-qo",
+      "fLbULqwumS"
+    ]
+  },
+  {
+    "guid": "SjSboH3d36",
+    "name": "Wonderland Cafe Corridor",
+    "price": 19.99,
+    "returning": true,
+    "items": [
+      "OJ38-415Wd"
+    ]
+  },
+  {
+    "guid": "u4XCt0wyO9",
+    "name": "Winter Quilted Cape",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "quSFDuWUoV"
+    ]
+  },
+  {
+    "guid": "h4lHGzWWcj",
+    "name": "Cozy Hermit Boots",
+    "price": 6.99,
+    "returning": true,
+    "items": [
+      "pT4AVkYVZP"
+    ]
+  },
+  {
+    "guid": "w1m_KJJD2I",
+    "name": "Tournament Skyball Set",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "sZRjoCGw_u"
+    ]
+  },
+  {
+    "guid": "sAB1bRtryG",
+    "name": "Cozy Hermit Cape",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "Nep9ocMylo"
+    ]
+  },
+  {
+    "guid": "GaWrvEZTs0",
+    "name": "Days of Feast Horns",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "rQQmknOn9a"
+    ]
+  },
+  {
+    "guid": "YmZEJh1k7C",
+    "name": "Snowflake Cape",
+    "price": 14.99,
+    "returning": true,
+    "items": [
+      "gnC7YQCAug"
+    ]
+  },
+  {
+    "guid": "kzvjwHcyM_",
+    "name": "Winter Ancestor Cape",
+    "price": 9.99,
+    "returning": true,
+    "items": [
+      "B3YJxxJKJX"
+    ]
+  },
+  {
+    "guid": "bOWfaB6joE",
+    "name": "Snowflake Hair Accessory",
+    "price": 1.99,
+    "returning": true,
+    "items": [
+      "VZyiD3Wmtp"
+    ]
+  },
+  {
+    "guid": "RTL1XnTEcC",
+    "name": "Winter Feast Snowglobe",
+    "price": 9.99,
+    "returning": true,
+    "items": [
+      "4i2CdmSgmX"
+    ]
+  },
+  {
+    "guid": "U9z2a6b-pp",
+    "name": "Days of Feast Pack",
+    "price": 6.99,
+    "returning": true,
+    "c": 25,
+    "items": [
+      "z2M4HqpR9C"
+    ]
+  }
 ]
