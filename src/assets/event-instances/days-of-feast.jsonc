@@ -69,5 +69,32 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=1458261c87dd805a83d4c453cd61c190"
     }
+  },
+  {
+    "guid": "CcoLLSvRWj",
+    "date": "2025-12-12",
+    "endDate": "2026-01-01",
+    "spirits": ["6LxuqpuiyZ", "wAmq2q-TUT"],
+    "shops": [
+      "wf1KNWvLFU",
+      "1VpuiU1Tkq",
+      "c8ILn2nY6m",
+      "mBD-Y9tKjN"
+    ],
+    "calculatorData": {
+      "dailyCurrencyAmount": 5,
+      "timedCurrency": [
+        {
+          "guid": "TZ-7rILYwP",
+          "date": "2025-12-12",
+          "endDate": "2026-01-01",
+          "amount": 15,
+          "description": "Snowflakes around the Village of Dreams (Event area)"
+        }
+      ]
+    },
+    "_calendar": {
+      "href": "https://skydreamers.notion.site/Sky-Event-Calendar-FM-ec6e6134924048859b2a8410b0a8b20d?p=2bf8261c87dd8066b4b3e9cc76889137&pm=c"
+    }
   }
 ]

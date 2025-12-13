@@ -106,6 +106,32 @@
     "spirit": "dK38RIPIOG",
     "name": "Event Staff (Office)",
     "iaps": ["5rvSltYZNX", "VHvLwW-unH", "YidHByHVaP"]
+  },
+  // #endregion
+  // #region Days of Feast (2025)
+  {
+    "guid": "wf1KNWvLFU",
+    "type": "Object",
+    "name": "Event Prop Box (Village Of Dreams)",
+    "itemList": "7sy9bH7Ms5"
+  },
+  {
+    "guid": "1VpuiU1Tkq",
+    "type": "Store",
+    "iaps": ["WXr9EhQ7Wk", "3PMpLqW_rH", "S4K4JiRvmZ"]
+  },
+  {
+    "guid": "c8ILn2nY6m",
+    "type": "Spirit",
+    "spirit": "dK38RIPIOG",
+    "name": "Event Staff (Office)",
+    "iaps": ["GaWrvEZTs0", "YmZEJh1k7C", "U9z2a6b-pp"]
+  },
+  {
+    "guide": "mBD-Y9tKjN",
+    "type": "Object",
+    "name": "Snowglobe IAP Box",
+    "iaps": ["SjSboH3d36", "_Nj12DJmj_", "h4lHGzWWcj", "u4XCt0wyO9", "w1m_KJJD2I", "sAB1bRtryG", "RTL1XnTEcC", "kzvjwHcyM_", "bOWfaB6joE"]
   }
   // #endregion
 ]
