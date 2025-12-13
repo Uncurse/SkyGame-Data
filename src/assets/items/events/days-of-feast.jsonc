@@ -520,135 +520,156 @@
   },
   {
     "id": 2911,
-    "guid":"hkbIvMBqyD",
-    "type":"Cape",
-    "name":"Feast Cape 2025",
-    "icon":"https://sky-planner.com/assets/game/items/feast2025_cape.webp",
-    "previewUrl":"",
+    "guid": "hkbIvMBqyD",
+    "type": "Cape",
+    "name": "Feast Cape 2025",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_cape.webp",
+    "previewUrl": "",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Feast_babycape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Feast_babycape.jpg"
+    },
     "_wiki": {
       "href": ""
     }
   },
   {
     "id": 2912,
-    "guid":"Ll_Y3fvyyd",
-    "type":"Outfit",
-    "name":"Feast Outfit 2025",
-    "icon":"https://sky-planner.com/assets/game/items/feast2025_outfit.webp",
-    "previewUrl":"",
+    "guid": "Ll_Y3fvyyd",
+    "type": "Outfit",
+    "name": "Feast Outfit 2025",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_outfit.webp",
+    "previewUrl": "",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Feast_snowmanfit.jpg"
+    },
     "_wiki": {
       "href": ""
     }
   },
   {
     "id": 2913,
-    "guid":"kKDtHO9xi6",
-    "type":"Cape",
-    "name":"Winter Scarf Cape",
-    "icon":"https://sky-planner.com/assets/game/items/feast2025_scarf.webp",
-    "previewUrl":"",
+    "guid": "kKDtHO9xi6",
+    "type": "Cape",
+    "name": "Winter Scarf Cape",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_scarf.webp",
+    "previewUrl": "",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Feast_snowflakescarf.webp"
+    },
     "_wiki": {
       "href": ""
     }
   },
   {
     "id": 2914,
-    "guid":"8aWnwc3_C6",
-    "type":"Hair",
-    "name":"Fluffy Winter Hair",
-    "icon":"https://sky-planner.com/assets/game/items/feast2025_hair.webp",
-    "previewUrl":"",
+    "guid": "8aWnwc3_C6",
+    "type": "Hair",
+    "name": "Fluffy Winter Hair",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_hair.webp",
+    "previewUrl": "",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Feast_fluffyhat.jpg"
+    },
     "_wiki": {
       "href": ""
     }
   },
   {
     "id": 2915,
-    "guid":"y9DW69yEQJ",
-    "type":"Furniture",
-    "name":"Ice Brick",
-    "icon":"https://sky-planner.com/assets/game/items/feast2025_prop1.webp",
-    "previewUrl":"",
+    "guid": "y9DW69yEQJ",
+    "type": "Furniture",
+    "name": "Ice Brick",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop1.webp",
+    "previewUrl": "",
     "_wiki": {
       "href": ""
     }
   },
   {
     "id": 2916,
-    "guid":"OvRe0knxy_",
-    "type":"Furniture",
-    "name":"Ice Tall Brick",
-    "icon":"https://sky-planner.com/assets/game/items/feast2025_prop2.webp",
-    "previewUrl":"",
+    "guid": "OvRe0knxy_",
+    "type": "Furniture",
+    "name": "Ice Tall Brick",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop2.webp",
+    "previewUrl": "",
     "_wiki": {
       "href": ""
     }
   },
   {
     "id": 2917,
-    "guid":"9iW4HHlUH2",
-    "type":"Furniture",
-    "name":"Ice Semicircle",
-    "icon":"https://sky-planner.com/assets/game/items/feast2025_prop3.webp",
-    "previewUrl":"",
+    "guid": "9iW4HHlUH2",
+    "type": "Furniture",
+    "name": "Ice Semicircle",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop3.webp",
+    "previewUrl": "",
     "_wiki": {
       "href": ""
     }
   },
   {
     "id": 2918,
-    "guid":"1Q0KAeJdaJ",
-    "type":"Furniture",
-    "name":"Ice Slide",
-    "icon":"https://sky-planner.com/assets/game/items/feast2025_prop4.webp",
-    "previewUrl":"",
+    "guid": "1Q0KAeJdaJ",
+    "type": "Furniture",
+    "name": "Ice Slide",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop4.webp",
+    "previewUrl": "",
     "_wiki": {
       "href": ""
     }
   },
   {
     "id": 2919,
-    "guid":"H65bxAfNzl",
-    "type":"Furniture",
-    "name":"Ice Stool",
-    "icon":"https://sky-planner.com/assets/game/items/feast2025_prop5.webp",
-    "previewUrl":"",
+    "guid": "H65bxAfNzl",
+    "type": "Furniture",
+    "name": "Ice Stool",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop5.webp",
+    "previewUrl": "",
     "_wiki": {
       "href": ""
     }
   },
   {
     "id": 2920,
-    "guid":"3c6XCtwVeT",
-    "type":"Furniture",
-    "name":"Ice Small Table",
-    "icon":"https://sky-planner.com/assets/game/items/feast2025_prop6.webp",
-    "previewUrl":"",
+    "guid": "3c6XCtwVeT",
+    "type": "Furniture",
+    "name": "Ice Small Table",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_prop6.webp",
+    "previewUrl": "",
     "_wiki": {
       "href": ""
     }
   },
   {
     "id": 2921,
-    "guid":"6T4gsS3ZUX",
-    "type":"HairAccessory",
-    "name":"Snowkid Hair Accessory",
-    "icon":"https://sky-planner.com/assets/game/items/feast2025_snowkid.webp",
-    "previewUrl":"",
+    "guid": "6T4gsS3ZUX",
+    "type": "HairAccessory",
+    "name": "Snowkid Hair Accessory",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_snowkid.webp",
+    "previewUrl": "",
     "_wiki": {
       "href": ""
     }
   },
   {
     "id": 2922,
-    "guid":"aoUa2jtXfL",
-    "type":"Shoes",
-    "name":"Fluffy Winter Shoes",
-    "icon":"",
-    "previewUrl":"",
+    "guid": "aoUa2jtXfL",
+    "type": "Shoes",
+    "name": "Fluffy Winter Shoes",
+    "icon": "https://sky-planner.com/assets/game/items/feast2025_shoes.webp",
+    "previewUrl": "",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/shoes/Feast_legwarmers.jpg"
+    },
     "_wiki": {
       "href": ""
     }
   }
-
 ]
