@@ -686,5 +686,19 @@
     "type": "WingBuff",
     "name": "Wing Buff",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Winglight.png"
+  },
+  { 
+    "id": 2925,
+    "guid": "Mm-MV6h2OD", 
+    "type": "Special", 
+    "name": "Heart", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png" 
+  },
+  { 
+    "id": 2926,
+    "guid": "87cmyNbT-i", 
+    "type": "WingBuff", 
+    "name": "Wing Buff", 
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Winglight.png" 
   }
 ]
