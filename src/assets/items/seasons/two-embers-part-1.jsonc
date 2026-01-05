@@ -732,7 +732,10 @@
     "guid": "kJewPz6EAk",
     "name": "Cutscene",
     "type": "Special",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png"
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Caring_Companion#Memory"
+    }
   },
   {
     "id": 2752,
