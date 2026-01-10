@@ -1,0 +1,37 @@
+[
+    {
+      "guid": "XEv6O28-r7",
+      "type": "Guide",
+      "name": "Lightmending Guide",
+      "imageUrl": "",
+      "tree": "9QWYwAUdDG"
+    },
+    {
+      "guid": "la4vZslNOy",
+      "type": "Season",
+      "name": "Lightmending Light Scholar",
+      "imageUrl": "",
+      "tree": "rMUUnF9HAB"
+    },
+    {
+      "guid": "haE7sC8lPX",
+      "type": "Season",
+      "name": "Lightmending Light Catcher",
+      "imageUrl": "",
+      "tree": "ZSQVVHlhVX"
+    },
+    {
+      "guid": "xbjjYxXUsV",
+      "type": "Season",
+      "name": "Lightmending Champion",
+      "imageUrl": "",
+      "tree": "lSXt9gZtGb"
+    },
+    {
+      "guid": "a4cDauac0X",
+      "type": "Season",
+      "name": "Lightmending Pioneer",
+      "imageUrl": "",
+      "tree": "QOhdakPpfv"
+    }
+]
