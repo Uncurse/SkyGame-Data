@@ -39,6 +39,46 @@
       ["Uppf-aDVeo", null, null]
     ]
   },
+  // After Season
+  {
+    "guid": "tsTkZRPfnQ",
+    "next": "cxYmC_PD-b",
+    "rows": [
+      ["nw-EjImIzB", "TiFEodceKr", null],
+      ["V_7QTHzPfE", null, null]
+    ]
+  },
+  {
+    "guid": "cxYmC_PD-b",
+    "next": "jeoRiCTVuJ",
+    "rows": [
+      ["voNMiAZ8m4", "ycNQitkLvS", null],
+      ["SM987RGsAW", "kkNDD-zsFl", null]
+    ]
+  },
+  {
+    "guid": "jeoRiCTVuJ",
+    "next": "Foy8K5Lwy3",
+    "rows": [
+      ["JFh6A5mqy5", "UdsddUYaM7", null],
+      ["3pQRlI9SPx", "IfNyfgLbsA", null]
+    ]
+  },
+  {
+    "guid": "Foy8K5Lwy3",
+    "next": "bTDBw6SSJX",
+    "rows": [
+      ["jQU0DKA3C8", "V9PDef_ZzE", "r-j7YT3vTO"],
+      ["v-qtIVBZwM", null, null]
+    ]
+  },
+  {
+    "guid": "bTDBw6SSJX",
+    "rows": [
+      ["R_h946SxJp", "9B5jikkdlN", "hODHbT1YcI"],
+      ["i83h-jMYab", null, null]
+    ]
+  },
   // Migrating Jelly Whisperer
   {
     "guid": "5xc-2tXUAT",
