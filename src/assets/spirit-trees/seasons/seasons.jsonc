@@ -1633,6 +1633,7 @@
   // #endregion
   // #region Migration
   { "guid": "IVb8WCKt8D", "tier": "9nkruKKfE7" },
+  { "guid": "xBmtGsKU2a", "tier": "tsTkZRPfnQ", "revisionType": "AfterSeason" },
   { "guid": "zK7AFf0rvZ", "tier": "5xc-2tXUAT" },
   { "guid": "nCGzsegB0l", "tier": "tCeG5a_2u0" },
   { "guid": "iFANrbgSY4", "tier": "aXYjAZqvIr" },
