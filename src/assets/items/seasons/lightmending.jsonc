@@ -19,6 +19,10 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/65/Lightmending-Guide-Ultimate-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Lightmending-Guide-Ultimate-Mask.png",
     "group": "Ultimate",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Lightmending_ultmask.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -43,6 +47,10 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ac/Lightmending-Guide-Ultimate-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/87/Lightmending-Guide-Ultimate-Cape-front.png",
     "group": "Ultimate",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Lightmending_ultcape.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -79,6 +87,12 @@
     "name": "Lightmending Light Scholar Hairstyle",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/61/Lightmending-Light-Scholar-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/Lightmending-Light-Scholar-Hair.png",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Lightmending_LightScholar_hair.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Lightmending_LightScholar_hair.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -113,6 +127,12 @@
     "name": "Lightmending Light Scholar Cape",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e2/Lightmending-Light-Scholar-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/aa/Lightmending-Light-Scholar-Cape-back.png",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Lightmending_LightScholar_cape.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/cape/2slots_Lightmending_LightScholar_cape.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -156,6 +176,12 @@
     "icon": "",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Lightmending-Light-Scholar-Outfit-front.png",
     "group": "SeasonPass",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Lightmending_LightScholar_pants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Lightmending_LightScholar_pants.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -242,6 +268,12 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a8/Lightmending-Light-Catcher-Hairpiece-icon.png",
     "previewUrl": "",
     "group": "SeasonPass",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Lightmending_LightCatcher_hat.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/2slots_Lightmending_LightCatcher_hat.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -253,6 +285,10 @@
     "name": "Lightmending Light Catcher Cape",
     "icon": "",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0c/Lightmending-Light-Catcher-Cape-back.png",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Lightmending_LightCatcher_cape.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -402,6 +438,12 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Lightmending-Champion-Outfit-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d1/Lightmending-Champion-Outfit-front.png",
     "group": "SeasonPass",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Lightmending_Champion_pants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Lightmending_Champion_pants.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -519,6 +561,12 @@
     "icon": "",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/eb/Lightmending-Pioneer-Outfit-front.png",
     "group": "SeasonPass",
+    "dye": {
+      "primary": {},
+      "secondary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Lightmending_Pioneer_pants.jpg",
+      "infoUrl": "https://sky-planner.com/assets/game/dyes/outfit/2slots_Lightmending_Pioneer_pants.jpg"
+    },
     "_wiki": {
       "href": ""
     }
