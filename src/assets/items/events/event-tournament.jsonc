@@ -6,7 +6,7 @@
     "name": "Tournament Curls",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/20/Tournament-Curls-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b4/Tournament-Curls-front.png",
-    "order": 326,
+    "order": 328,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Curls"
     }
@@ -18,7 +18,7 @@
     "name": "Tournament Torch",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fe/Tournament-Torch-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7a/Tournament-Torch.png",
-    "order": 643,
+    "order": 647,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Torch"
     }
@@ -37,7 +37,7 @@
     "name": "Tournament Golden Garland",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Tournament-Golden-Garland-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a1/Tournament-Golden-Garland.png",
-    "order": 378,
+    "order": 382,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Tournament_of_Triumph#Tournament_Golden_Garland"
     }
@@ -67,7 +67,8 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 648
   },
   {
     "id": 3002,
@@ -78,7 +79,8 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 330
   },
   {
     "id": 3003,
@@ -93,7 +95,8 @@
     },
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 100
   },
   {
     "id": 3004,
@@ -108,7 +111,8 @@
     },
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 159
   },
   {
     "id": 3005,
@@ -119,7 +123,8 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 1044
   },
   {
     "id": 3006,
@@ -130,7 +135,8 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 1016
   },
   {
     "id": 3007,
@@ -141,7 +147,8 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 1018
   },
   {
     "id": 3008,
@@ -152,7 +159,8 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 1017
   },
   {
     "id": 3009,
@@ -163,7 +171,8 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 1015
   },
   {
     "id": 3010,
@@ -174,7 +183,8 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 723
   },
   {
     "id": 3011,
@@ -185,7 +195,8 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 727
   },
   {
     "id": 3012,
@@ -196,7 +207,8 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 726
   },
   {
     "id": 3013,
@@ -207,7 +219,8 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 724
   },
   {
     "id": 3014,
@@ -218,10 +231,11 @@
     "previewUrl": "",
     "_wiki": {
       "href": ""
-    }
+    },
+    "order": 725
   },
   {
-    "id": 3015, 
+    "id": 3015,
     "guid": "0GUGpJRuHV",
     "name": "Cutscene",
     "type": "Special",

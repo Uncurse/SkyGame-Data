@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Gratitude_Guide#Ultimate_Gifts"
     },
-    "order": 537
+    "order": 541
   },
   {
     "id": 369,
@@ -23,7 +23,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Gratitude_Guide#Ultimate_Gifts"
     },
-    "order": 436,
+    "order": 440,
     "dye": {
       "primary": {},
       "secondary": {},
@@ -56,7 +56,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Gratitude_Sassy.jpg"
     },
-    "order": 195
+    "order": 197
   },
   {
     "id": 652,
@@ -87,7 +87,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sassy_Drifter#Mask"
     },
-    "order": 437,
+    "order": 441,
     "group": "SeasonPass"
   },
   {
@@ -142,7 +142,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Gratitude_yoga.jpg"
     },
-    "order": 197
+    "order": 199
   },
   {
     "id": 660,
@@ -196,7 +196,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Stretching_Guru#Cape"
     },
-    "order": 891,
+    "order": 901,
     "group": "SeasonPass"
   },
   {
@@ -294,7 +294,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Gratitude_Provoke.jpg"
     },
-    "order": 196
+    "order": 198
   },
   {
     "id": 674,
@@ -310,7 +310,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Provoking_Performer#Mask"
     },
-    "order": 432,
+    "order": 436,
     "group": "SeasonPass"
   },
   {
@@ -369,7 +369,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Leaping_Dancer#Instrument"
     },
-    "order": 596
+    "order": 600
   },
   {
     "id": 681,
@@ -423,7 +423,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Leaping_Dancer#Mask"
     },
-    "order": 433,
+    "order": 437,
     "group": "SeasonPass"
   },
   {
@@ -523,7 +523,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Saluting_Protector#Cape"
     },
-    "order": 890
+    "order": 900
   },
   {
     "id": 695,
@@ -539,7 +539,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Saluting_Protector#Mask"
     },
-    "order": 434,
+    "order": 438,
     "group": "SeasonPass"
   },
   {
@@ -605,7 +605,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Greeting_Shaman#Instrument"
     },
-    "order": 597,
+    "order": 601,
     "group": "SeasonPass"
   },
   {
@@ -652,7 +652,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Greeting_Shaman#Mask"
     },
-    "order": 435,
+    "order": 439,
     "group": "SeasonPass"
   },
   {

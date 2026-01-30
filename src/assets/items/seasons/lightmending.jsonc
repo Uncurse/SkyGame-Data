@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Guide#Seasonal_Pendant"
     },
-    "order": 576
+    "order": 580
   },
   {
     "id": 2938,
@@ -27,7 +27,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Guide#Lightmending_Ultimate_Mask"
     },
-    "order": 511
+    "order": 515
   },
   {
     "id": 2939,
@@ -40,7 +40,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Guide#Lightmending_Ultimate_Hair"
     },
-    "order": 293
+    "order": 295
   },
   {
     "id": 2940,
@@ -57,7 +57,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Guide#Lightmending_Ultimate_Cape"
     },
-    "order": 982
+    "order": 992
   },
   {
     "id": 2941,
@@ -101,7 +101,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Scholar#Hair"
     },
-    "order": 294
+    "order": 296
   },
   {
     "id": 2945,
@@ -142,7 +142,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Scholar#Cape"
     },
-    "order": 984
+    "order": 994
   },
   {
     "id": 2948,
@@ -155,7 +155,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Scholar#Mask"
     },
-    "order": 514
+    "order": 518
   },
   {
     "id": 2949,
@@ -225,7 +225,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher#Mask"
     },
-    "order": 515
+    "order": 519
   },
   {
     "id": 2955,
@@ -288,7 +288,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher#Hair_Accessory"
     },
-    "order": 360
+    "order": 364
   },
   {
     "id": 2961,
@@ -304,7 +304,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher#Cape"
     },
-    "order": 983
+    "order": 993
   },
   {
     "id": 2962,
@@ -330,7 +330,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Light_Catcher#Instrument"
     },
-    "order": 636
+    "order": 640
   },
   {
     "id": 2964,
@@ -376,7 +376,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Champion#Mask"
     },
-    "order": 513
+    "order": 517
   },
   {
     "id": 2969,
@@ -426,7 +426,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Champion#Head_Accessory"
     },
-    "order": 417
+    "order": 421
   },
   {
     "id": 2974,
@@ -540,7 +540,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Pioneer#Hair"
     },
-    "order": 295
+    "order": 297
   },
   {
     "id": 2985,
@@ -553,7 +553,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Lightmending_Pioneer#Mask"
     },
-    "order": 512
+    "order": 516
   },
   {
     "id": 2986,
@@ -653,7 +653,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
   },
   {
-    "id": 2998, 
+    "id": 2998,
     "guid": "Vy7ojXH_pW",
     "type": "Special",
     "name": "Quest 4",
@@ -663,7 +663,7 @@
     }
   },
   {
-    "id": 2999, // Quest 5
+    "id": 2999,
     "guid": "XGQV5cpTVc",
     "type": "Special",
     "name": "Placeholder",
