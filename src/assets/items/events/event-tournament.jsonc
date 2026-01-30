@@ -87,6 +87,10 @@
     "name": "Tournament Sleek Skating Outfit",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Tournament-Sleek-Skating-Outfit-icon.png",
     "previewUrl": "",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Tournament_vestpants.jpg"
+    },
     "_wiki": {
       "href": ""
     }
@@ -98,6 +102,10 @@
     "name": "Tournament Sleek Skating Shoes",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/72/Tournament-Sleek-Skating-Shoes-icon.png",
     "previewUrl": "",
+    "dye": {
+      "primary": {},
+      "previewUrl": "https://sky-planner.com/assets/game/dyes/shoes/Tournament_iceskates.jpg"
+    },
     "_wiki": {
       "href": ""
     }
