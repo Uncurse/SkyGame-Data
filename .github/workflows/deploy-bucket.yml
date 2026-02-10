@@ -24,7 +24,7 @@ jobs:
           PR_NUMBER=${{ github.event.pull_request.number || '1' }}
 
           npx wrangler r2 object put \
-            skygame-data/assets/pr/${PR_NUMBER}-everything.json \
+            skygame-data/assets/${PR_NUMBER}-everything.json \
             --file=./assets/everything.json --remote
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
