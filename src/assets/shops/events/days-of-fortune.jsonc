@@ -90,14 +90,15 @@
   },
   // #endregion
   {
+    "guid": "HD8pa0h3g_",
+    "type": "Store",
+    "iaps": ["Pql0BnYS7m", "aoIrDXlacz", "RWgSxQR5Zr", "tA32uatGAp"]
+  },
+  {
     "guid": "2HOBNDsLZB",
     "type": "Object",
     "name": "IAP Table",
     "iaps": [
-      "Pql0BnYS7m",
-      "aoIrDXlacz",
-      "RWgSxQR5Zr",
-      "tA32uatGAp",
       "E7O187lhfq",
       "WjjjybN-2R",
       "hk6IL24o1V",
@@ -117,5 +118,5 @@
     "type": "Object",
     "name": "Spell Box",
     "itemList": "Eo6xwJSvKy"
-  },
+  }
 ]
