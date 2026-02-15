@@ -9,7 +9,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Moments_Guide#Camera_Prop"
     },
-    "order": 634
+    "order": 637
   },
   {
     "id": 623,
@@ -121,7 +121,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Moments_Guide#Ultimate_Gifts"
     },
-    "order": 558
+    "order": 561
   },
   {
     "id": 636,
@@ -134,7 +134,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Moments_Guide#Ultimate_Gifts"
     },
-    "order": 114,
+    "order": 115,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Moments_ultglasses.jpg",
       "primary": {}
@@ -151,7 +151,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Moments_Guide#Ultimate_Gifts"
     },
-    "order": 633
+    "order": 636
   },
   {
     "id": 638,
@@ -164,7 +164,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Moments_Guide#Ultimate_Gifts"
     },
-    "order": 346,
+    "order": 348,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Moments_ulthat.jpg",
       "primary": {}
@@ -212,7 +212,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Reassuring_Ranger#Face_Accessory"
     },
-    "order": 115,
+    "order": 116,
     "group": "SeasonPass"
   },
   {
@@ -229,7 +229,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Reassuring_Ranger#Mask"
     },
-    "order": 504
+    "order": 506
   },
   {
     "id": 1655,
@@ -262,7 +262,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Reassuring_Ranger#Cape"
     },
-    "order": 961,
+    "order": 966,
     "group": "SeasonPass"
   },
   {
@@ -275,7 +275,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Reassuring_Ranger#Hair_Accessory"
     },
-    "order": 344,
+    "order": 346,
     "dye": {
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/Moments_rangerhat.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/hair-accessory/2slots_Moments_rangerhat.jpg",
@@ -333,7 +333,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Jolly_Geologist#Face_Accessory"
     },
-    "order": 116
+    "order": 117
   },
   {
     "id": 1664,
@@ -351,7 +351,7 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Moments_geologist.jpg",
       "infoUrl": "https://sky-planner.com/assets/game/dyes/hair/2slots_Moments_geologist.jpg"
     },
-    "order": 272,
+    "order": 274,
     "group": "SeasonPass"
   },
   {
@@ -414,7 +414,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Jolly_Geologist#Prop"
     },
-    "order": 690,
+    "order": 694,
     "group": "SeasonPass"
   },
   {
@@ -484,7 +484,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Ascetic_Monk#Mask"
     },
-    "order": 505,
+    "order": 507,
     "group": "SeasonPass"
   },
   {
@@ -501,7 +501,7 @@
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/hair/Moments_monk.jpg"
     },
-    "order": 271
+    "order": 273
   },
   {
     "id": 1677,
@@ -589,7 +589,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nightbird_Whisperer#Hair"
     },
-    "order": 270
+    "order": 272
   },
   {
     "id": 1685,
@@ -616,7 +616,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nightbird_Whisperer#Hair_Accessory"
     },
-    "order": 345,
+    "order": 347,
     "group": "SeasonPass"
   },
   {
@@ -662,7 +662,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nightbird_Whisperer#Shoes"
     },
-    "order": 136,
+    "order": 138,
     "group": "SeasonPass"
   },
   {
