@@ -692,9 +692,12 @@
   {
     "id": 3024,
     "guid": "VQ4KRlmObB",
-    "type": "Special",
-    "name": "Placeholder",
-    "icon": ""
+    "type": "Quest",
+    "name": "Quest 7",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": ""
+    }
   },
   {
     "id": 3025,
@@ -753,5 +756,25 @@
     "type": "Special",
     "name": "Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
+  },
+  {
+    "id": 3032,
+    "guid": "hkAVzHgszc",
+    "type": "Special",
+    "name": "Placeholder",
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3033,
+    "guid": "lkBzjfF9uj",
+    "type": "Special",
+    "name": "Placeholder",
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
   }
 ]
