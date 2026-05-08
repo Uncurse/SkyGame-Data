@@ -17,7 +17,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Guide#Ultimate_Gifts"
     },
-    "order": 578
+    "order": 1500
   },
   {
     "id": 549,
@@ -30,7 +30,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Guide#Ultimate_Gifts"
     },
-    "order": 271
+    "order": 10300
   },
   {
     "id": 550,
@@ -43,7 +43,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Guide#Ultimate_Gifts"
     },
-    "order": 36
+    "order": 1700
   },
   {
     "id": 551,
@@ -56,7 +56,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Guide#Ultimate_Gifts"
     },
-    "order": 990
+    "order": 7700
   },
   {
     "id": 552,
@@ -285,7 +285,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Guide#Outfit"
     },
-    "order": 37
+    "order": 1800
   },
   {
     "id": 573,
@@ -298,7 +298,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Guide#Mask"
     },
-    "order": 516
+    "order": 6500
   },
   {
     "id": 1502,
@@ -334,7 +334,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Running_Wayfarer#Mask"
     },
-    "order": 513
+    "order": 6200
   },
   {
     "id": 1505,
@@ -361,7 +361,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Running_Wayfarer#Hair"
     },
-    "order": 267,
+    "order": 9900,
     "group": "SeasonPass"
   },
   {
@@ -417,7 +417,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Running_Wayfarer#Cape"
     },
-    "order": 986
+    "order": 7300
   },
   {
     "id": 1513,
@@ -476,7 +476,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Mindful_Miner#Mask"
     },
-    "order": 515,
+    "order": 6400,
     "group": "SeasonPass"
   },
   {
@@ -512,7 +512,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Mindful_Miner#Hair"
     },
-    "order": 269
+    "order": 10100
   },
   {
     "id": 1522,
@@ -539,7 +539,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Mindful_Miner#Outfit"
     },
-    "order": 33,
+    "order": 1400,
     "group": "SeasonPass"
   },
   {
@@ -552,7 +552,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Mindful_Miner#Cape"
     },
-    "order": 988
+    "order": 7500
   },
   {
     "id": 1526,
@@ -604,7 +604,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Warrior_of_Love#Mask"
     },
-    "order": 514
+    "order": 6300
   },
   {
     "id": 1531,
@@ -631,7 +631,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Warrior_of_Love#Hair"
     },
-    "order": 268,
+    "order": 10000,
     "group": "SeasonPass"
   },
   {
@@ -694,7 +694,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Warrior_of_Love#Cape"
     },
-    "order": 987,
+    "order": 7400,
     "group": "SeasonPass"
   },
   {
@@ -746,7 +746,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Seed_of_Hope#Mask"
     },
-    "order": 512,
+    "order": 6100,
     "group": "SeasonPass"
   },
   {
@@ -802,7 +802,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Seed_of_Hope#Hair"
     },
-    "order": 266
+    "order": 9800
   },
   {
     "id": 1550,
@@ -829,7 +829,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Seed_of_Hope#Cape"
     },
-    "order": 985,
+    "order": 7200,
     "group": "SeasonPass"
   },
   {
@@ -851,7 +851,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_AURORA#Tiara_We_Can_Touch"
     },
-    "order": 431
+    "order": 500
   },
   {
     "id": 1555,
@@ -864,7 +864,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_AURORA#Runaway_Hair"
     },
-    "order": 270
+    "order": 10200
   },
   {
     "id": 1556,
@@ -877,7 +877,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_AURORA#Runaway_Outfit"
     },
-    "order": 34
+    "order": 1500
   },
   {
     "id": 1557,
@@ -890,7 +890,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Concert#To_The_Love_Outfit"
     },
-    "order": 35
+    "order": 1600
   },
   {
     "id": 1558,
@@ -904,7 +904,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Voice_of_AURORA"
     },
-    "order": 643
+    "order": 2400
   },
   {
     "id": 1559,
@@ -917,7 +917,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Concert#Giving_In_Cape"
     },
-    "order": 991
+    "order": 7800
   },
   {
     "id": 1560,
@@ -930,7 +930,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Concert#Wings_of_AURORA"
     },
-    "order": 989
+    "order": 7600
   },
   {
     "id": 1561,
@@ -943,7 +943,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/AURORA_Encore_Concerts#Musical_Voyage_Sneakers"
     },
-    "order": 164
+    "order": 2300
   },
   {
     "id": 1562,

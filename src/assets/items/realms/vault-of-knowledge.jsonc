@@ -39,7 +39,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Levitating_Adept#Hair"
     },
-    "order": 191
+    "order": 2300
   },
   {
     "id": 314,
@@ -94,7 +94,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Levitating_Adept#Mask"
     },
-    "order": 115
+    "order": 700
   },
   {
     "id": 320,
@@ -136,7 +136,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Meditating_Monastic#Hair"
     },
-    "order": 192
+    "order": 2400
   },
   {
     "id": 324,
@@ -191,7 +191,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Meditating_Monastic#Prop"
     },
-    "order": 681
+    "order": 200
   },
   {
     "id": 330,
@@ -214,7 +214,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Memory_Whisperer#Outfit"
     },
-    "order": 7
+    "order": 700
   },
   {
     "id": 332,
@@ -258,7 +258,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Memory_Whisperer#Cape"
     },
-    "order": 926
+    "order": 1300
   },
   {
     "id": 337,
@@ -281,7 +281,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Memory_Whisperer#Cape"
     },
-    "order": 935
+    "order": 2200
   },
   {
     "id": 339,
@@ -304,7 +304,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Polite_Scholar#Outfit"
     },
-    "order": 4
+    "order": 400
   },
   {
     "id": 341,
@@ -344,7 +344,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Polite_Scholar#Hair"
     },
-    "order": 349
+    "order": 18200
   },
   {
     "id": 346,
@@ -386,7 +386,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Praying_Acolyte#Hair"
     },
-    "order": 193
+    "order": 2500
   },
   {
     "id": 350,
@@ -445,7 +445,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Praying_Acolyte#Cape"
     },
-    "order": 922
+    "order": 900
   },
   {
     "id": 356,
@@ -468,6 +468,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Praying_Acolyte#Cape"
     },
-    "order": 931
+    "order": 1800
   }
 ]

@@ -9,7 +9,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Blue_Pinned_Cap"
     },
-    "order": 417
+    "order": 6800
   },
   {
     "id": 2930,
@@ -21,7 +21,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Purple_Spectacles"
     },
-    "order": 137
+    "order": 2900
   },
   {
     "id": 2931,
@@ -33,7 +33,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Green_Folded_Ears"
     },
-    "order": 416
+    "order": 6700
   },
   {
     "id": 2932,
@@ -45,7 +45,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Yellow_Paintbrush"
     },
-    "order": 418
+    "order": 6900
   },
   {
     "id": 2933,
@@ -57,7 +57,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Heart-Shaped_Monocle"
     },
-    "order": 138
+    "order": 3000
   },
   {
     "id": 2934,
@@ -69,7 +69,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Gear-Shaped_Monocle"
     },
-    "order": 139
+    "order": 3100
   },
   {
     "id": 2935,
@@ -81,7 +81,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Straight_Star-Shaped_Hair_Accessory"
     },
-    "order": 419
+    "order": 7000
   },
   {
     "id": 2936,
@@ -93,6 +93,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Personality_Quiz_Event#Curved_Star-Shaped_Hair_Accessory"
     },
-    "order": 420
+    "order": 7100
   }
 ]

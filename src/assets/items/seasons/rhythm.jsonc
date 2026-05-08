@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rhythm_Guide#Ultimate_Gifts"
     },
-    "order": 567
+    "order": 400
   },
   {
     "id": 375,
@@ -23,7 +23,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rhythm_Guide#Ultimate_Gifts"
     },
-    "order": 472
+    "order": 2100
   },
   {
     "id": 376,
@@ -36,7 +36,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Rhythm_Guide#Ultimate_Gifts"
     },
-    "order": 219
+    "order": 5100
   },
   {
     "id": 845,
@@ -103,7 +103,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Troupe_Greeter#Mask"
     },
-    "order": 473
+    "order": 2200
   },
   {
     "id": 852,
@@ -121,7 +121,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Troupe_Greeter#Outfit"
     },
-    "order": 11,
+    "order": 200,
     "group": "SeasonPass"
   },
   {
@@ -229,7 +229,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Festival_Spin_Dancer#Hair"
     },
-    "order": 216
+    "order": 4800
   },
   {
     "id": 865,
@@ -247,7 +247,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Festival_Spin_Dancer#Outfit"
     },
-    "order": 13,
+    "order": 400,
     "group": "SeasonPass"
   },
   {
@@ -302,7 +302,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Festival_Spin_Dancer#Prop"
     },
-    "order": 682
+    "order": 300
   },
   {
     "id": 872,
@@ -387,7 +387,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Admiring_Actor#Outfit"
     },
-    "order": 14
+    "order": 500
   },
   {
     "id": 879,
@@ -399,7 +399,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Admiring_Actor#Mask"
     },
-    "order": 474,
+    "order": 2300,
     "group": "SeasonPass"
   },
   {
@@ -465,7 +465,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Troupe_Juggler#Hair"
     },
-    "order": 217
+    "order": 4900
   },
   {
     "id": 887,
@@ -519,7 +519,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Troupe_Juggler#Cape"
     },
-    "order": 945,
+    "order": 3200,
     "group": "SeasonPass"
   },
   {
@@ -538,7 +538,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Troupe_Juggler#Outfit"
     },
-    "order": 12
+    "order": 300
   },
   {
     "id": 893,
@@ -566,7 +566,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Troupe_Juggler#Prop"
     },
-    "order": 695
+    "order": 700
   },
   {
     "id": 896,
@@ -616,7 +616,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Respectful_Pianist#Hair"
     },
-    "order": 218
+    "order": 5000
   },
   {
     "id": 901,
@@ -667,7 +667,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Respectful_Pianist#Instrument"
     },
-    "order": 633,
+    "order": 1400,
     "group": "SeasonPass"
   },
   {
@@ -680,7 +680,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Respectful_Pianist#Mask"
     },
-    "order": 476
+    "order": 2500
   },
   {
     "id": 907,
@@ -753,7 +753,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Thoughtful_Director#Mask"
     },
-    "order": 475,
+    "order": 2400,
     "group": "SeasonPass"
   },
   {
@@ -790,7 +790,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Thoughtful_Director#Instrument"
     },
-    "order": 632
+    "order": 1300
   },
   {
     "id": 918,
@@ -817,7 +817,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Thoughtful_Director#Cape"
     },
-    "order": 946,
+    "order": 3300,
     "group": "SeasonPass"
   },
   {
