@@ -644,57 +644,59 @@
   {
     "id": 3126,
     "guid": "9_k0CQ1YsG",
-    "type": "Prop",
-    "name": "Challenge Ball Dispenser Prop",
+    "type": "Special",
+    "name": "Challenge Ball Dispenser",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Challenge-Ball-Dispenser-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Challenge-Ball-Dispenser-Prop.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Ball_Dispenser_Prop"
     }
   },
   {
     "id": 3127,
     "guid": "2Vy0pNifOU",
-    "type": "Prop",
-    "name": "Challenge Target Prop",
+    "type": "Special",
+    "name": "Challenge Target",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Challenge-Target-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/06/Challenge-Target-Prop.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Target_Prop"
     }
   },
   {
     "id": 3128,
     "guid": "Arp_S5eGTr",
-    "type": "Prop",
-    "name": "Challenge Token Prop",
+    "type": "Special",
+    "name": "Challenge Token",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Challenge-Token-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Challenge-Token-Prop.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Token_Prop"
     }
   },
   {
     "id": 3129,
     "guid": "MyKYmUPlXn",
-    "type": "Prop",
-    "name": "Challenge Bounce Pad Prop",
+    "type": "Furniture",
+    "name": "Challenge Bounce Pad",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5b/Challenge-Bounce-Pad-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Challenge-Bounce-Pad-Prop.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Bounce_Pad_Prop"
+    },
+    "order": 11400
   },
   {
     "id": 3130,
     "guid": "zgRZHjhJ7s",
-    "type": "Prop",
-    "name": "Challenge Platform Prop",
+    "type": "Furniture",
+    "name": "Challenge Platform",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/39/Challenge-Platform-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1e/Challenge-Platform-Prop.png",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Platform_Prop"
+    },
+    "order": 11700
   },
   {
     "id": 3142,
@@ -719,5 +721,29 @@
     "type": "Special",
     "name": "Heart",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d9/Heart.png"
+  },
+  {
+    "id": 3145,
+    "guid": "6dzqysO-Ws",
+    "type": "Furniture",
+    "name": "Challenge Bounce Pad Level 2",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/08/Challenge-Bounce-Pad-Level-2-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c3/Challenge-Bounce-Pad-Prop-Level-2.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Bounce_Pad_Prop"
+    },
+    "order": 11500
+  },
+  {
+    "id": 3146,
+    "guid": "EDnMTgYRFC",
+    "type": "Furniture",
+    "name": "Challenge Bounce Pad Level 3",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/df/Challenge-Bounce-Pad-Level-3-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f7/Challenge-Bounce-Pad-Prop-Level-3.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Challenge_Bounce_Pad_Prop"
+    },
+    "order": 11600
   }
 ]
