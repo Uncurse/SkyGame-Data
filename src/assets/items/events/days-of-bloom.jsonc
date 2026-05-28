@@ -109,7 +109,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2023#Bloom_Butterfly_Fountain"
     },
-    "order": 5700
+    "order": 5600
   },
   {
     "id": 1775,
@@ -267,7 +267,7 @@
     "name": "Bloom Rose Jar Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0a/Bloom-Rose-Jar-prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a2/Bloom-Rose-Jar-prop.png",
-    "order": 11600,
+    "order": 11500,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2025#Bloom_Rose_Jar_Prop"
     }
@@ -379,7 +379,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Rug"
     },
-    "order": 11800
+    "order": 11700
   },
   {
     "id": 3056,
@@ -391,7 +391,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Ladder"
     },
-    "order": 11100
+    "order": 11200
   },
   {
     "id": 3057,
@@ -403,7 +403,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Round_Table"
     },
-    "order": 11000
+    "order": 11100
   },
   {
     "id": 3058,
@@ -415,7 +415,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Wall_Shelf"
     },
-    "order": 11900
+    "order": 11800
   },
   {
     "id": 3059,
@@ -427,6 +427,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Bloom/2026#Sunflower_Small_Pillow"
     },
-    "order": 11700
+    "order": 11600
   }
 ]

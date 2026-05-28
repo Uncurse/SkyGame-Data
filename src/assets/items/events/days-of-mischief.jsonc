@@ -364,7 +364,7 @@
     "name": "Mischief Cauldron",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d3/Mischief-Cauldron-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e3/Mischief-Cauldron.png",
-    "order": 10500,
+    "order": 10600,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2024#Mischief_Cauldron"
     }
@@ -544,7 +544,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2025#Puzzle_Box"
     },
-    "order": 5100
+    "order": 5200
   },
   {
     "id": 2843,
@@ -556,7 +556,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2025#Puzzle_Chest"
     },
-    "order": 5000
+    "order": 5100
   },
   {
     "id": 2844,
@@ -568,7 +568,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Mischief/2025#Puzzle_Cage"
     },
-    "order": 5200
+    "order": 5300
   },
   {
     "id": 2845,

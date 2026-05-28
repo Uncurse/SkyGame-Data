@@ -269,19 +269,19 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2022#Snowkid_Prop"
     },
-    "order": 4800
+    "order": 4900
   },
   {
     "id": 1899,
     "guid": "sZRjoCGw_u",
-    "type": "Prop",
+    "type": "Furniture",
     "name": "Tournament Skyball Set",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f7/Days-of-Feast-Sky-Ball-Goal-Prop-icon-Morybel-0146.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c3/Days-of-Feast-Sky-Ball-Goal-Prop-image.png",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2022#Tournament_Skyball_Set"
     },
-    "order": 5600
+    "order": 4800
   },
   {
     "id": 1900,
@@ -342,7 +342,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2023#Course_Creation_Prop"
     },
-    "order": 6500
+    "order": 6400
   },
   {
     "id": 2411,
@@ -424,7 +424,7 @@
     "name": "Wonderland Cafe Corridor",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/da/Wonderland-Cafe-Corridor-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/52/Wonderland-Cafe-Corridor.png",
-    "order": 11300,
+    "order": 11200,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2024#Wonderland_Cafe_Corridor"
     }
@@ -436,7 +436,7 @@
     "name": "Wonderland Teacup Bath",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b7/Wonderland-Teacup-Bath-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/24/Wonderland-Teacup-Bath-Prop.png",
-    "order": 10600,
+    "order": 10700,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2024#Wonderland_Teacup_Bath"
     }
@@ -588,7 +588,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Horizontal_Ice_Block"
     },
-    "order": 8300
+    "order": 8400
   },
   {
     "id": 2916,
@@ -600,7 +600,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Vertical_Ice_Block"
     },
-    "order": 8400
+    "order": 8500
   },
   {
     "id": 2917,
@@ -612,7 +612,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Concave_Ice_Slide"
     },
-    "order": 8600
+    "order": 8700
   },
   {
     "id": 2918,
@@ -624,7 +624,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Convex_Ice_Slide"
     },
-    "order": 8500
+    "order": 8600
   },
   {
     "id": 2919,
@@ -636,7 +636,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Ice_Stool"
     },
-    "order": 8100
+    "order": 8200
   },
   {
     "id": 2920,
@@ -648,7 +648,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Feast/2025#Small_Ice_Table"
     },
-    "order": 8200
+    "order": 8300
   },
   {
     "id": 2921,

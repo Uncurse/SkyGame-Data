@@ -42,7 +42,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Duets_Ultimate_Instrument"
     },
-    "order": 10000
+    "order": 10100
   },
   {
     "id": 2239,
@@ -55,7 +55,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Duets_Guide#Duets_Ultimate_Prop"
     },
-    "order": 9600
+    "order": 9500
   },
   {
     "id": 2240,
@@ -97,7 +97,7 @@
     "name": "The Pianist's Beginnings Poster",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Pianists-Beginnings-Poster-Prop-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fe/Pianists-Beginnings-Poster-Prop.png",
-    "order": 10000,
+    "order": 9900,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Beginnings#Piano_Keys_Wall_Poster"
     },
@@ -144,7 +144,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Beginnings#Small_Blue_Rug"
     },
-    "order": 10400
+    "order": 10300
   },
   {
     "id": 2247,
@@ -206,7 +206,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Beginnings#Prop"
     },
-    "order": 9900,
+    "order": 9800,
     "group": "SeasonPass"
   },
   {
@@ -268,7 +268,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Musicians'_Legacy#Grand_Piano"
     },
-    "order": 9900,
+    "order": 10000,
     "group": "SeasonPass"
   },
   {
@@ -374,7 +374,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Flourishing#Small_Pink_Rug"
     },
-    "order": 10500
+    "order": 10400
   },
   {
     "id": 2269,
@@ -386,7 +386,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Cellist%27s_Flourishing#Cello_Wall_Poster"
     },
-    "order": 9800,
+    "order": 9700,
     "group": "SeasonPass"
   },
   {
@@ -468,7 +468,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Pianist%27s_Flourishing#Prop"
     },
-    "order": 9700,
+    "order": 9600,
     "group": "SeasonPass"
   },
   {

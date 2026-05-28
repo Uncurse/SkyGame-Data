@@ -60,7 +60,7 @@
     "name": "Fledgling Upright Piano",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b2/Fledgling-upright-Piano-instrument-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Fledgling-upright-Piano-instrument.png",
-    "order": 11400,
+    "order": 11300,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Days_of_Music/2024#Fledgling_Upright_Piano"
     }
@@ -187,7 +187,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Aviary%27s_Firework_Festival#Moth_Appreciation_Pack"
     },
-    "order": 7800
+    "order": 7700
   },
   {
     "id": 1962,
@@ -246,7 +246,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Nesting_Workshop#Mask_Hanger"
     },
-    "order": 9000
+    "order": 8900
   },
   {
     "id": 2543,

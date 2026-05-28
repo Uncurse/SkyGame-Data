@@ -192,7 +192,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2023#Anniversary_Plush"
     },
-    "order": 6100
+    "order": 6000
   },
   {
     "id": 1837,
@@ -224,7 +224,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2023#Anniversary_Sonorous_Seashell"
     },
-    "order": 5900
+    "order": 5800
   },
   {
     "id": 1840,
@@ -236,7 +236,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2023#Anniversary_Party_Lights"
     },
-    "order": 4900
+    "order": 5000
   },
   {
     "id": 2229,
@@ -283,7 +283,7 @@
     "name": "Skyfest Star Jar",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d6/SkyFest-Star-Jar-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f9/SkyFest-Star-Jar.png",
-    "order": 11100,
+    "order": 11000,
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sky_Anniversary/2024#SkyFest_Star_Jar"
     }
