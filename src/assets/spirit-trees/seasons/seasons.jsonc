@@ -1500,25 +1500,28 @@
     "guid": "lz9mQjejU-",
     "node": "V3VhHlvWgz"
   },
-
+  { "guid": "2nOP2DL8MC", "node": "f_-qHiCoCL" }, // SV 13
   // #endregion
   // #region Memory of a Lost Village
   {
     "guid": "nzvmNK6cj5",
     "node": "LGC5H_zNi7"
   },
+  { "guid": "6c1vZR7GTd", "node": "El_GluDy7d" }, // SV 13
   // #endregion
   // #region Echo of an Abandoned Refuge
   {
     "guid": "I9msLLh3Lq",
     "node": "NZh5vSn1Lm"
   },
+  { "guid": "mQMdpeGPo_", "node": "RUZ9WJaoyF" }, // SV 13
   // #endregion
   // #region Remnant of a Forgotten Haven
   {
     "guid": "NUWzW2Qua2",
     "node": "MEg5pX2QnC"
   },
+  { "guid": "5Qj3ImwlMr", "node": "GeXq9uapdT" }, // SV 13
   // #endregion
   // #endregion
   // #region Nine-Colored Deer
